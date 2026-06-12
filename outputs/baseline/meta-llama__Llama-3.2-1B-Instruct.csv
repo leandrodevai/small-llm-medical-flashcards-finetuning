@@ -1,0 +1,165 @@
+model_id,example_index,reference_answer,generated_answer,raw_generation,generated_tokens,token_f1,reference_answer_logprob_sum,reference_answer_nll_mean,reference_answer_token_perplexity,reference_answer_tokens,answer_similarity
+meta-llama/Llama-3.2-1B-Instruct,0,"Locked-in syndrome is a rare neurological disorder in which a person is conscious and aware but unable to move or speak due to a near-total transection of the brainstem at the level of the pons. This means that the neural pathways that control voluntary movement and speech are disrupted, leaving the person with only limited control over their eye movements and facial expressions. Despite this, the person is fully conscious and able to think and reason normally. The only cranial nerve that remains intact in locked-in syndrome is CN III, which controls eye movements and pupil dilation. The condition can be caused by a variety of factors, including stroke, traumatic brain injury, and certain diseases that affect the brainstem. Treatment options for locked-in syndrome are limited, and typically focus on supportive care and rehabilitation to help the person adapt to their condition and improve their quality of life.","Locked-in syndrome (LIS) is a rare neurological disorder that affects the brainstem and cranial nerves, resulting in complete paralysis of the body except for the eyes. It is also known as ""locked in"" because the individual is aware and conscious, but is unable to move or communicate verbally.
+
+**Causes and risk factors:**
+
+Locked-in syndrome is often caused by a traumatic brain injury, such as a stroke, spinal cord injury, or brain tumor. The exact cause is usually unknown, but it is thought to be related to damage to the brainstem, which is the part of the brain that connects the cerebrum to the spinal cord.
+
+**Brainstem involvement:**
+
+The brainstem is a critical part of the brain that regulates many of the body's automatic functions, such as breathing, heart rate, and blood pressure. In locked-in syndrome, the brainstem is affected in several ways:
+
+1. **Spinal cord compression:** The compression of the spinal cord can damage the brainstem, leading to loss of motor control and paralysis of the body.
+2. **Brainstem lesions:** Lesions or damage to the brainstem can disrupt the communication between the brain and the spinal cord, leading to paralysis of the body.
+3. **Cranial nerve involvement:** The cranial nerves that pass through the brainstem, such as the oculomotor nerve (III), trochlear nerve (IV), and abducens nerve (VI), can be affected, leading to paralysis of eye movements.
+
+**Cranial nerve involvement:**
+
+The cranial nerves that pass through the brainstem can be affected in locked-in syndrome, leading to:
+
+1. **Oculomotor nerve (III):** The oculomotor nerve controls eye movements, including upward, downward, and side-to-side movements. In locked-in syndrome, the oculomotor nerve can be paralyzed, leading to limited eye movements.
+2. **Trochlear nerve (IV):** The trochlear nerve controls the superior oblique muscle, which rotates the eye downward. In locked-in syndrome, the trochlear nerve can be paralyzed, leading to limited eye movements.
+3. **Abducens nerve (VI):** The abducens nerve controls the lateral rectus muscle, which rotates the eye outward. In locked-in syndrome, the abducens nerve can be paralyzed, leading to limited eye movements.
+
+**Symptoms:**
+
+The symptoms of locked-in syndrome can vary depending on the extent of the brainstem and cranial nerve","Locked-in syndrome (LIS) is a rare neurological disorder that affects the brainstem and cranial nerves, resulting in complete paralysis of the body except for the eyes. It is also known as ""locked in"" because the individual is aware and conscious, but is unable to move or communicate verbally.
+
+**Causes and risk factors:**
+
+Locked-in syndrome is often caused by a traumatic brain injury, such as a stroke, spinal cord injury, or brain tumor. The exact cause is usually unknown, but it is thought to be related to damage to the brainstem, which is the part of the brain that connects the cerebrum to the spinal cord.
+
+**Brainstem involvement:**
+
+The brainstem is a critical part of the brain that regulates many of the body's automatic functions, such as breathing, heart rate, and blood pressure. In locked-in syndrome, the brainstem is affected in several ways:
+
+1. **Spinal cord compression:** The compression of the spinal cord can damage the brainstem, leading to loss of motor control and paralysis of the body.
+2. **Brainstem lesions:** Lesions or damage to the brainstem can disrupt the communication between the brain and the spinal cord, leading to paralysis of the body.
+3. **Cranial nerve involvement:** The cranial nerves that pass through the brainstem, such as the oculomotor nerve (III), trochlear nerve (IV), and abducens nerve (VI), can be affected, leading to paralysis of eye movements.
+
+**Cranial nerve involvement:**
+
+The cranial nerves that pass through the brainstem can be affected in locked-in syndrome, leading to:
+
+1. **Oculomotor nerve (III):** The oculomotor nerve controls eye movements, including upward, downward, and side-to-side movements. In locked-in syndrome, the oculomotor nerve can be paralyzed, leading to limited eye movements.
+2. **Trochlear nerve (IV):** The trochlear nerve controls the superior oblique muscle, which rotates the eye downward. In locked-in syndrome, the trochlear nerve can be paralyzed, leading to limited eye movements.
+3. **Abducens nerve (VI):** The abducens nerve controls the lateral rectus muscle, which rotates the eye outward. In locked-in syndrome, the abducens nerve can be paralyzed, leading to limited eye movements.
+
+**Symptoms:**
+
+The symptoms of locked-in syndrome can vary depending on the extent of the brainstem and cranial nerve",512,0.3173913043478261,-240.0,1.40625,4.08062433502646,170,0.7472352385520935
+meta-llama/Llama-3.2-1B-Instruct,1,What are some possible examination findings consistent with uterine rupture? Some possible findings may include the presence of abdominally palpable fetal parts and/or the loss of fetal station.,"Uterine rupture is a serious medical emergency that can occur during pregnancy, childbirth, or other gynecological procedures. Here are some possible examination findings consistent with uterine rupture:
+
+**Physical Examination Findings:**
+
+1. **Abnormal uterine motion:** The uterus may move abnormally during the examination, such as moving in a way that is not typical for the patient's gestational age or parity.
+2. **Abnormal uterine size:** The uterus may be smaller than expected for the patient's gestational age or parity.
+3. **Abnormal uterine shape:** The uterus may be irregularly shaped or have a lopsided appearance.
+4. **Abnormal uterine tenderness:** The patient may experience severe uterine tenderness, especially in the lower abdomen or pelvis.
+5. **Abnormal vaginal bleeding:** Vaginal bleeding or spotting may be present, especially if the rupture is located in the lower uterine segment.
+6. **Fetal distress:** The fetus may be in distress, such as rapid heart rate, tachycardia, or decreased fetal movement.
+7. **Abnormal fetal heart rate:** The fetal heart rate may be abnormal, such as non-reassuring fetal heart rate patterns.
+
+**Imaging Findings:**
+
+1. **Ultrasonography:** A transvaginal ultrasound may show a uterine rupture, which may appear as a:
+ * Linear or irregular scar tissue extending from the uterine incision site to the uterine wall.
+ * Uterine cavity distension or fluid accumulation.
+ * Fetal distress or non-reassuring fetal heart rate patterns.
+2. **CT scan:** A CT scan may show a uterine rupture, which may appear as:
+ * A linear or irregular scar tissue extending from the uterine incision site to the uterine wall.
+ * Uterine cavity distension or fluid accumulation.
+ * Fetal distress or non-reassuring fetal heart rate patterns.
+3. **MRI:** An MRI may show a uterine rupture, which may appear as:
+ * A linear or irregular scar tissue extending from the uterine incision site to the uterine wall.
+ * Uterine cavity distension or fluid accumulation.
+ * Fetal distress or non-reassuring fetal heart rate patterns.
+
+**Other Findings:**
+
+1. **Hemoperitoneum:** Fluid may be present in the abdominal cavity, which can be a sign of uterine rupture","Uterine rupture is a serious medical emergency that can occur during pregnancy, childbirth, or other gynecological procedures. Here are some possible examination findings consistent with uterine rupture:
+
+**Physical Examination Findings:**
+
+1. **Abnormal uterine motion:** The uterus may move abnormally during the examination, such as moving in a way that is not typical for the patient's gestational age or parity.
+2. **Abnormal uterine size:** The uterus may be smaller than expected for the patient's gestational age or parity.
+3. **Abnormal uterine shape:** The uterus may be irregularly shaped or have a lopsided appearance.
+4. **Abnormal uterine tenderness:** The patient may experience severe uterine tenderness, especially in the lower abdomen or pelvis.
+5. **Abnormal vaginal bleeding:** Vaginal bleeding or spotting may be present, especially if the rupture is located in the lower uterine segment.
+6. **Fetal distress:** The fetus may be in distress, such as rapid heart rate, tachycardia, or decreased fetal movement.
+7. **Abnormal fetal heart rate:** The fetal heart rate may be abnormal, such as non-reassuring fetal heart rate patterns.
+
+**Imaging Findings:**
+
+1. **Ultrasonography:** A transvaginal ultrasound may show a uterine rupture, which may appear as a:
+ * Linear or irregular scar tissue extending from the uterine incision site to the uterine wall.
+ * Uterine cavity distension or fluid accumulation.
+ * Fetal distress or non-reassuring fetal heart rate patterns.
+2. **CT scan:** A CT scan may show a uterine rupture, which may appear as:
+ * A linear or irregular scar tissue extending from the uterine incision site to the uterine wall.
+ * Uterine cavity distension or fluid accumulation.
+ * Fetal distress or non-reassuring fetal heart rate patterns.
+3. **MRI:** An MRI may show a uterine rupture, which may appear as:
+ * A linear or irregular scar tissue extending from the uterine incision site to the uterine wall.
+ * Uterine cavity distension or fluid accumulation.
+ * Fetal distress or non-reassuring fetal heart rate patterns.
+
+**Other Findings:**
+
+1. **Hemoperitoneum:** Fluid may be present in the abdominal cavity, which can be a sign of uterine rupture",512,0.0923076923076923,-91.0,2.59375,13.379852088930456,35,0.7771162986755371
+meta-llama/Llama-3.2-1B-Instruct,2,"Aspergillus forms conidiophores, which are structures that contain fruiting bodies. These fruiting bodies produce spores that can be dispersed by the wind and can cause infections in humans, particularly in people with weakened immune systems. Aspergillus is a type of opportunistic fungus that is commonly found in soil, water, and decaying plant matter. When viewed under a microscope, Aspergillus appears as septated hyphae that branch at acute angles. In humans, Aspergillus infections can cause a range of symptoms, depending on the type of infection and the location of the fungus in the body. Treatment typically involves antifungal medication and supportive care.","Aspergillus is a genus of fungi that forms structures known as conidia, which are a type of asexual spores. These conidia are typically 0.5-2.0 μm in size and are usually arranged in chains or clusters.
+
+The structures that contain fruiting bodies in Aspergillus are conidiophores. Conidiophores are specialized structures that produce conidia, and they are typically found on the surface of the mycelium (vegetative part of the fungus). Conidiophores can be filamentous, branching, or non-filamentous, and they can be found on the surface of the mycelium or embedded in the substrate.
+
+In Aspergillus, conidiophores can be divided into two types:
+
+1. Aseptate conidiophores: These conidiophores do not have septa (divisions) between the cells, and are typically found on the surface of the mycelium.
+2. Septate conidiophores: These conidiophores have septa between the cells, and are typically found embedded in the substrate.
+
+Fruiting bodies, also known as conidia, are the structures that contain the spores produced by the conidiophores. They are typically found on the surface of the conidiophores and are usually arranged in chains or clusters.","Aspergillus is a genus of fungi that forms structures known as conidia, which are a type of asexual spores. These conidia are typically 0.5-2.0 μm in size and are usually arranged in chains or clusters.
+
+The structures that contain fruiting bodies in Aspergillus are conidiophores. Conidiophores are specialized structures that produce conidia, and they are typically found on the surface of the mycelium (vegetative part of the fungus). Conidiophores can be filamentous, branching, or non-filamentous, and they can be found on the surface of the mycelium or embedded in the substrate.
+
+In Aspergillus, conidiophores can be divided into two types:
+
+1. Aseptate conidiophores: These conidiophores do not have septa (divisions) between the cells, and are typically found on the surface of the mycelium.
+2. Septate conidiophores: These conidiophores have septa between the cells, and are typically found embedded in the substrate.
+
+Fruiting bodies, also known as conidia, are the structures that contain the spores produced by the conidiophores. They are typically found on the surface of the conidiophores and are usually arranged in chains or clusters.",280,0.3543307086614173,-187.0,1.34375,3.8333918047584103,139,0.787693977355957
+meta-llama/Llama-3.2-1B-Instruct,3,Oral contraceptive pills (OCPs) are the treatment for PCOS that decreases the risk of hyperplasia and cancer.,"There is no single treatment that can completely eliminate the risk of hyperplasia and cancer in Polycystic Ovary Syndrome (PCOS. However, some treatments can help manage the condition and reduce the risk of these complications.
+
+That being said, one treatment option that has been shown to reduce the risk of hyperplasia and cancer in PCOS is metformin.
+
+Metformin is an oral medication that is commonly used to treat type 2 diabetes. It works by decreasing insulin resistance, which is a common feature of PCOS. Studies have shown that metformin can reduce the risk of ovarian hyperplasia and cancer in women with PCOS.
+
+A 2018 meta-analysis published in the Journal of Clinical Endocrinology and Metabolism found that metformin significantly reduced the risk of ovarian hyperplasia and cancer in women with PCOS, with a 34% reduction in the risk of ovarian hyperplasia and a 24% reduction in the risk of ovarian cancer.
+
+Another study published in the Journal of Clinical Endocrinology and Metabolism in 2020 found that metformin reduced the risk of ovarian cancer in women with PCOS by 30% compared to a placebo.
+
+It's essential to note that metformin is not a cure for PCOS, and it's not suitable for everyone. It's essential to discuss the potential benefits and risks of metformin with a healthcare provider before starting treatment.
+
+Other treatments that may help manage PCOS and reduce the risk of hyperplasia and cancer include:
+
+* Fertility medications, such as clomiphene citrate or letrozole, which can stimulate ovulation and reduce the risk of hyperplasia and cancer.
+* Anti-androgen medications, such as spironolactone, which can help reduce androgen levels and improve symptoms.
+* Lifestyle changes, such as a healthy diet, regular exercise, and stress management, which can help improve insulin sensitivity and reduce the risk of hyperplasia and cancer.
+
+It's essential to work with a healthcare provider to develop a personalized treatment plan that addresses your specific needs and health goals.","There is no single treatment that can completely eliminate the risk of hyperplasia and cancer in Polycystic Ovary Syndrome (PCOS. However, some treatments can help manage the condition and reduce the risk of these complications.
+
+That being said, one treatment option that has been shown to reduce the risk of hyperplasia and cancer in PCOS is metformin.
+
+Metformin is an oral medication that is commonly used to treat type 2 diabetes. It works by decreasing insulin resistance, which is a common feature of PCOS. Studies have shown that metformin can reduce the risk of ovarian hyperplasia and cancer in women with PCOS.
+
+A 2018 meta-analysis published in the Journal of Clinical Endocrinology and Metabolism found that metformin significantly reduced the risk of ovarian hyperplasia and cancer in women with PCOS, with a 34% reduction in the risk of ovarian hyperplasia and a 24% reduction in the risk of ovarian cancer.
+
+Another study published in the Journal of Clinical Endocrinology and Metabolism in 2020 found that metformin reduced the risk of ovarian cancer in women with PCOS by 30% compared to a placebo.
+
+It's essential to note that metformin is not a cure for PCOS, and it's not suitable for everyone. It's essential to discuss the potential benefits and risks of metformin with a healthcare provider before starting treatment.
+
+Other treatments that may help manage PCOS and reduce the risk of hyperplasia and cancer include:
+
+* Fertility medications, such as clomiphene citrate or letrozole, which can stimulate ovulation and reduce the risk of hyperplasia and cancer.
+* Anti-androgen medications, such as spironolactone, which can help reduce androgen levels and improve symptoms.
+* Lifestyle changes, such as a healthy diet, regular exercise, and stress management, which can help improve insulin sensitivity and reduce the risk of hyperplasia and cancer.
+
+It's essential to work with a healthcare provider to develop a personalized treatment plan that addresses your specific needs and health goals.",430,0.06430868167202572,-36.5,1.3984375,4.048868664514532,26,0.6178076267242432

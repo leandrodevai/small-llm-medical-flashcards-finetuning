@@ -1,0 +1,1378 @@
+model_id,example_index,reference_answer,generated_answer,raw_generation,generated_tokens,exact_match,token_f1,reference_answer_logprob_sum,reference_answer_nll_mean,reference_answer_token_perplexity,reference_answer_tokens,answer_similarity
+Qwen/Qwen3-1.7B,0,"Locked-in syndrome is a rare neurological disorder in which a person is conscious and aware but unable to move or speak due to a near-total transection of the brainstem at the level of the pons. This means that the neural pathways that control voluntary movement and speech are disrupted, leaving the person with only limited control over their eye movements and facial expressions. Despite this, the person is fully conscious and able to think and reason normally. The only cranial nerve that remains intact in locked-in syndrome is CN III, which controls eye movements and pupil dilation. The condition can be caused by a variety of factors, including stroke, traumatic brain injury, and certain diseases that affect the brainstem. Treatment options for locked-in syndrome are limited, and typically focus on supportive care and rehabilitation to help the person adapt to their condition and improve their quality of life.","Locked-in syndrome is a rare neurological condition in which a person is completely paralyzed except for the ability to move their eyes. The individual is typically conscious and aware but cannot move any part of their body except for their eyes. This condition is often associated with damage to the brainstem, particularly the **medulla oblongata**, and can also involve damage to the **cerebellum** or **brainstem**.
+
+### Key Features of Locked-in Syndrome:
+- **Complete paralysis of all voluntary muscles** except for the **eyes**.
+- **Loss of consciousness** of the inability to move, but the person remains **conscious**.
+- **No loss of speech** or **sensory perception**.
+- **No loss of cognitive function** (e.g., memory, attention, language).
+
+### Impact on the Brainstem and Cranial Nerves:
+1. **Brainstem Damage**:
+   - The **brainstem** is responsible for regulating vital functions such as breathing, heart rate, and consciousness.
+   - In locked-in syndrome, damage to the **medulla oblongata** (part of the brainstem) is typically the cause.
+   - The **cerebellum** and **pons** may also be involved, but the most common site of damage is the **medulla**.
+
+2. **Cranial Nerves**:
+   - The **oculomotor nerve (CN III)**, **trochlear nerve (CN IV)**, and **abducens nerve (CN VI)** are often affected.
+   - These nerves control eye movement and are essential for visual function.
+   - Damage to these nerves results in **loss of eye movement** and **loss of eye blinking**.
+
+3. **Other Possible Involvements**:
+   - The **hypothalamus** and **cerebellum** may also be involved, but the most common and definitive cause is **brainstem damage**.
+
+### Clinical Presentation:
+- The patient is **conscious** but **unable to move** any part of their body except for their **eyes**.
+- They can **see** but **cannot move** their eyes.
+- They may be able to **communicate** through **eye movements** or **facial expressions**.
+
+### Prognosis:
+- The prognosis is generally **poor** due to the **complete paralysis** and **loss of motor function**.
+- Recovery is rare, and most patients do not regain motor function.
+
+### Summary:
+Locked-in syndrome is a severe neurological","Locked-in syndrome is a rare neurological condition in which a person is completely paralyzed except for the ability to move their eyes. The individual is typically conscious and aware but cannot move any part of their body except for their eyes. This condition is often associated with damage to the brainstem, particularly the **medulla oblongata**, and can also involve damage to the **cerebellum** or **brainstem**.
+
+### Key Features of Locked-in Syndrome:
+- **Complete paralysis of all voluntary muscles** except for the **eyes**.
+- **Loss of consciousness** of the inability to move, but the person remains **conscious**.
+- **No loss of speech** or **sensory perception**.
+- **No loss of cognitive function** (e.g., memory, attention, language).
+
+### Impact on the Brainstem and Cranial Nerves:
+1. **Brainstem Damage**:
+   - The **brainstem** is responsible for regulating vital functions such as breathing, heart rate, and consciousness.
+   - In locked-in syndrome, damage to the **medulla oblongata** (part of the brainstem) is typically the cause.
+   - The **cerebellum** and **pons** may also be involved, but the most common site of damage is the **medulla**.
+
+2. **Cranial Nerves**:
+   - The **oculomotor nerve (CN III)**, **trochlear nerve (CN IV)**, and **abducens nerve (CN VI)** are often affected.
+   - These nerves control eye movement and are essential for visual function.
+   - Damage to these nerves results in **loss of eye movement** and **loss of eye blinking**.
+
+3. **Other Possible Involvements**:
+   - The **hypothalamus** and **cerebellum** may also be involved, but the most common and definitive cause is **brainstem damage**.
+
+### Clinical Presentation:
+- The patient is **conscious** but **unable to move** any part of their body except for their **eyes**.
+- They can **see** but **cannot move** their eyes.
+- They may be able to **communicate** through **eye movements** or **facial expressions**.
+
+### Prognosis:
+- The prognosis is generally **poor** due to the **complete paralysis** and **loss of motor function**.
+- Recovery is rare, and most patients do not regain motor function.
+
+### Summary:
+Locked-in syndrome is a severe neurological",512,False,0.3700234192037471,-368.0,2.171875,8.774721228365038,170,0.8472074270248413
+Qwen/Qwen3-1.7B,1,What are some possible examination findings consistent with uterine rupture? Some possible findings may include the presence of abdominally palpable fetal parts and/or the loss of fetal station.,"Uterine rupture is a life-threatening complication that occurs when the uterus tears open during pregnancy. It is most commonly seen in women with a history of prior uterine rupture, placenta previa, or other high-risk conditions. The following are **possible examination findings** consistent with uterine rupture:
+
+### 1. **Abdominal Pain**
+   - Severe, sudden, and persistent abdominal pain.
+   - May be localized to the lower abdomen or radiate to the back or pelvis.
+
+### 2. **Fetal Distress**
+   - Fetal heart rate abnormalities (tachycardia or bradycardia).
+   - Fetal distress may be detected during fetal monitoring (e.g., NST, OCT, or amniocentesis).
+
+### 3. **Signs of Hemorrhage**
+   - Vaginal bleeding (may be heavy or intermittent).
+   - Blood in the urine (hematuria).
+   - Hypotension or tachycardia (due to shock or hemorrhage).
+
+### 4. **Abdominal Examination Findings**
+   - **Tenderness** in the lower abdomen.
+   - **Bulging** or **distension** of the abdomen due to fluid or blood accumulation.
+   - **Fetal heart sounds** may be heard, but they may be absent or irregular due to the rupture.
+
+### 5. **Pelvic Examination**
+   - **Fetal position** may be altered (e.g., head down, but with signs of distress).
+   - **Fetal heart rate** may be irregular or absent.
+   - **Uterine tenderness** may be present.
+
+### 6. **Imaging Findings**
+   - **Ultrasound** may show a **ruptured uterus** with fluid or blood in the abdominal cavity.
+   - **CT or MRI** may be used to assess the extent of the rupture and surrounding structures.
+
+### 7. **Other Signs**
+   - **Shock** (tachycardia, hypotension, tachypnea, altered mental status).
+   - **Fetal distress** may be detected during **amniocentesis** or **fetal monitoring**.
+
+---
+
+### Important Notes:
+- Uterine rupture is a **medical emergency** and requires immediate intervention (e.g., cesarean delivery, delivery of the fetus, and management of hemorrhage).
+- It is **not always visible on physical examination**; in some cases, it","Uterine rupture is a life-threatening complication that occurs when the uterus tears open during pregnancy. It is most commonly seen in women with a history of prior uterine rupture, placenta previa, or other high-risk conditions. The following are **possible examination findings** consistent with uterine rupture:
+
+### 1. **Abdominal Pain**
+   - Severe, sudden, and persistent abdominal pain.
+   - May be localized to the lower abdomen or radiate to the back or pelvis.
+
+### 2. **Fetal Distress**
+   - Fetal heart rate abnormalities (tachycardia or bradycardia).
+   - Fetal distress may be detected during fetal monitoring (e.g., NST, OCT, or amniocentesis).
+
+### 3. **Signs of Hemorrhage**
+   - Vaginal bleeding (may be heavy or intermittent).
+   - Blood in the urine (hematuria).
+   - Hypotension or tachycardia (due to shock or hemorrhage).
+
+### 4. **Abdominal Examination Findings**
+   - **Tenderness** in the lower abdomen.
+   - **Bulging** or **distension** of the abdomen due to fluid or blood accumulation.
+   - **Fetal heart sounds** may be heard, but they may be absent or irregular due to the rupture.
+
+### 5. **Pelvic Examination**
+   - **Fetal position** may be altered (e.g., head down, but with signs of distress).
+   - **Fetal heart rate** may be irregular or absent.
+   - **Uterine tenderness** may be present.
+
+### 6. **Imaging Findings**
+   - **Ultrasound** may show a **ruptured uterus** with fluid or blood in the abdominal cavity.
+   - **CT or MRI** may be used to assess the extent of the rupture and surrounding structures.
+
+### 7. **Other Signs**
+   - **Shock** (tachycardia, hypotension, tachypnea, altered mental status).
+   - **Fetal distress** may be detected during **amniocentesis** or **fetal monitoring**.
+
+---
+
+### Important Notes:
+- Uterine rupture is a **medical emergency** and requires immediate intervention (e.g., cesarean delivery, delivery of the fetus, and management of hemorrhage).
+- It is **not always visible on physical examination**; in some cases, it",512,False,0.11888111888111888,-164.0,4.6875,108.5813867407896,35,0.776634931564331
+Qwen/Qwen3-1.7B,2,"Aspergillus forms conidiophores, which are structures that contain fruiting bodies. These fruiting bodies produce spores that can be dispersed by the wind and can cause infections in humans, particularly in people with weakened immune systems. Aspergillus is a type of opportunistic fungus that is commonly found in soil, water, and decaying plant matter. When viewed under a microscope, Aspergillus appears as septated hyphae that branch at acute angles. In humans, Aspergillus infections can cause a range of symptoms, depending on the type of infection and the location of the fungus in the body. Treatment typically involves antifungal medication and supportive care.","Aspergillus species form **fruiting bodies** that are typically **spore-bearing structures**. These structures are called **ascomata** (in some species) or **conidiophores** (in others). The most well-known and characteristic structure is the **ascus**, which is a **spore-containing sac** that develops in the **ascomata**.
+
+### Key structures in Aspergillus:
+1. **Ascomata**: 
+   - These are the **spore-bearing structures** where **ascomata** form.
+   - They are **sac-like** and contain **asci** (spore-containing chambers).
+   - Each asci contains **8 spores** (ascospores) that are typically **haploid**.
+
+2. **Conidiophores**:
+   - These are **branching, filamentous structures** that produce **conidia** (spores).
+   - They are often **tubular** or **branching** and can be **hyphal** or **septate**.
+
+3. **Pseudohyphae**:
+   - In some species, Aspergillus forms **pseudohyphae**, which are **branching hyphae** that resemble hyphae but are not true hyphae.
+   - These are often found in **immature or senescent** cultures.
+
+4. **Fruiting bodies**:
+   - In some species, Aspergillus forms **fruiting bodies** that are **spore-bearing** and **tubular**.
+   - These are often **asexual** and are the **primary sites of spore production**.
+
+### Summary:
+Aspergillus forms **fruiting bodies** that contain **ascomata** and **conidiophores**, which produce **ascospores** and **conidia** respectively. The most characteristic structure is the **ascus**, which is a **spore-containing sac** in the **ascomata**.
+
+If you're referring to a specific species (e.g., *Aspergillus fumigatus*, *A. niger*, etc.), the structure may vary slightly, but the general pattern remains the same.","Aspergillus species form **fruiting bodies** that are typically **spore-bearing structures**. These structures are called **ascomata** (in some species) or **conidiophores** (in others). The most well-known and characteristic structure is the **ascus**, which is a **spore-containing sac** that develops in the **ascomata**.
+
+### Key structures in Aspergillus:
+1. **Ascomata**: 
+   - These are the **spore-bearing structures** where **ascomata** form.
+   - They are **sac-like** and contain **asci** (spore-containing chambers).
+   - Each asci contains **8 spores** (ascospores) that are typically **haploid**.
+
+2. **Conidiophores**:
+   - These are **branching, filamentous structures** that produce **conidia** (spores).
+   - They are often **tubular** or **branching** and can be **hyphal** or **septate**.
+
+3. **Pseudohyphae**:
+   - In some species, Aspergillus forms **pseudohyphae**, which are **branching hyphae** that resemble hyphae but are not true hyphae.
+   - These are often found in **immature or senescent** cultures.
+
+4. **Fruiting bodies**:
+   - In some species, Aspergillus forms **fruiting bodies** that are **spore-bearing** and **tubular**.
+   - These are often **asexual** and are the **primary sites of spore production**.
+
+### Summary:
+Aspergillus forms **fruiting bodies** that contain **ascomata** and **conidiophores**, which produce **ascospores** and **conidia** respectively. The most characteristic structure is the **ascus**, which is a **spore-containing sac** in the **ascomata**.
+
+If you're referring to a specific species (e.g., *Aspergillus fumigatus*, *A. niger*, etc.), the structure may vary slightly, but the general pattern remains the same.",460,False,0.25675675675675674,-312.0,2.25,9.487735836358526,139,0.705013632774353
+Qwen/Qwen3-1.7B,3,Oral contraceptive pills (OCPs) are the treatment for PCOS that decreases the risk of hyperplasia and cancer.,"There is no single treatment option for Polycystic Ovary Syndrome (PCOS) that has been definitively shown to reduce the risk of hyperplasia or cancer. However, certain treatments can help manage the symptoms and reduce the risk of long-term complications associated with PCOS.
+
+### Key Points:
+
+1. **Lifestyle Modifications**:
+   - **Weight Loss**: Losing even a small amount of weight (5–10% of body weight) can significantly reduce insulin resistance, improve hormonal balance, and lower the risk of endometrial hyperplasia and cancer.
+   - **Diet and Exercise**: A balanced diet and regular physical activity can help manage PCOS symptoms and reduce the risk of long-term complications.
+
+2. **Medications**:
+   - **Oral Contraceptives**: These can help regulate menstrual cycles, reduce androgen levels, and lower the risk of endometrial hyperplasia and cancer.
+   - **Metformin**: This medication is often used to improve insulin sensitivity and can help reduce the risk of endometrial hyperplasia and cancer.
+   - **Anti-androgens**: These may be used to reduce excess androgen levels and improve symptoms.
+
+3. **Endometrial Protection**:
+   - **Progestin Therapy**: In women with a history of endometrial hyperplasia or cancer risk, progestin therapy (such as combined oral contraceptives or progestin-only pills) can help protect the endometrium.
+
+### Important Note:
+- **Endometrial Hyperplasia and Cancer Risk**: Women with PCOS are at higher risk for endometrial hyperplasia and cancer, particularly if they have a history of obesity, infertility, or long-term use of unopposed estrogen (e.g., oral contraceptives without progestin).
+- **Risk Reduction**: Lifestyle changes and medications can help reduce this risk, but they do not eliminate it entirely.
+
+### Conclusion:
+While no single treatment option has been proven to completely prevent hyperplasia or cancer, **lifestyle modifications and certain medications** (such as oral contraceptives, metformin, and progestin therapy) can help reduce the risk. The most effective approach is a combination of lifestyle changes and medical management.","There is no single treatment option for Polycystic Ovary Syndrome (PCOS) that has been definitively shown to reduce the risk of hyperplasia or cancer. However, certain treatments can help manage the symptoms and reduce the risk of long-term complications associated with PCOS.
+
+### Key Points:
+
+1. **Lifestyle Modifications**:
+   - **Weight Loss**: Losing even a small amount of weight (5–10% of body weight) can significantly reduce insulin resistance, improve hormonal balance, and lower the risk of endometrial hyperplasia and cancer.
+   - **Diet and Exercise**: A balanced diet and regular physical activity can help manage PCOS symptoms and reduce the risk of long-term complications.
+
+2. **Medications**:
+   - **Oral Contraceptives**: These can help regulate menstrual cycles, reduce androgen levels, and lower the risk of endometrial hyperplasia and cancer.
+   - **Metformin**: This medication is often used to improve insulin sensitivity and can help reduce the risk of endometrial hyperplasia and cancer.
+   - **Anti-androgens**: These may be used to reduce excess androgen levels and improve symptoms.
+
+3. **Endometrial Protection**:
+   - **Progestin Therapy**: In women with a history of endometrial hyperplasia or cancer risk, progestin therapy (such as combined oral contraceptives or progestin-only pills) can help protect the endometrium.
+
+### Important Note:
+- **Endometrial Hyperplasia and Cancer Risk**: Women with PCOS are at higher risk for endometrial hyperplasia and cancer, particularly if they have a history of obesity, infertility, or long-term use of unopposed estrogen (e.g., oral contraceptives without progestin).
+- **Risk Reduction**: Lifestyle changes and medications can help reduce this risk, but they do not eliminate it entirely.
+
+### Conclusion:
+While no single treatment option has been proven to completely prevent hyperplasia or cancer, **lifestyle modifications and certain medications** (such as oral contraceptives, metformin, and progestin therapy) can help reduce the risk. The most effective approach is a combination of lifestyle changes and medical management.",461,False,0.08108108108108109,-53.5,2.0625,7.865609273944892,26,0.6904534697532654
+Qwen/Qwen3-1.7B,4,"A characteristic of the transformation from normal cells to dysplastic cells is that there is an increased nuclear to cytoplasmic ratio, which means that the size of the nucleus relative to the size of the cytoplasm is larger than normal.","A characteristic of the transformation from normal cells to dysplastic cells is **cellular atypia**, which is defined as **abnormality in the appearance of cells** that is a hallmark of malignant transformation. 
+
+Cellular atypia is characterized by:
+
+1. **Increased size** of the cells (enlargement).
+2. **Increased nuclear size** (nuclear enlargement).
+3. **Increased nuclear-to-cytoplasmic ratio** (nuclear enlargement relative to the cytoplasm).
+4. **Increased nuclear chromatin density** (nuclei appear more dense and indistinct).
+5. **Increased nuclear mitotic activity** (more mitotic figures, indicating faster cell division).
+6. **Loss of normal nuclear and cytoplasmic differentiation** (cells may appear more like other cell types).
+
+These changes are typically observed in **pre-malignant** or **precancerous** lesions, and they are considered a key feature in the **diagnosis of dysplasia** (a term used in pathology to describe abnormal cell proliferation and differentiation that is not yet malignant). 
+
+Dysplasia is often classified based on the **degree of atypia** and the **pattern of cell proliferation**, which can be categorized as **mild, moderate, or severe**.","A characteristic of the transformation from normal cells to dysplastic cells is **cellular atypia**, which is defined as **abnormality in the appearance of cells** that is a hallmark of malignant transformation. 
+
+Cellular atypia is characterized by:
+
+1. **Increased size** of the cells (enlargement).
+2. **Increased nuclear size** (nuclear enlargement).
+3. **Increased nuclear-to-cytoplasmic ratio** (nuclear enlargement relative to the cytoplasm).
+4. **Increased nuclear chromatin density** (nuclei appear more dense and indistinct).
+5. **Increased nuclear mitotic activity** (more mitotic figures, indicating faster cell division).
+6. **Loss of normal nuclear and cytoplasmic differentiation** (cells may appear more like other cell types).
+
+These changes are typically observed in **pre-malignant** or **precancerous** lesions, and they are considered a key feature in the **diagnosis of dysplasia** (a term used in pathology to describe abnormal cell proliferation and differentiation that is not yet malignant). 
+
+Dysplasia is often classified based on the **degree of atypia** and the **pattern of cell proliferation**, which can be categorized as **mild, moderate, or severe**.",266,False,0.29946524064171126,-107.5,2.203125,9.053260780008058,49,0.7731438279151917
+Qwen/Qwen3-1.7B,5,"Yes, restoration of blood flow to ""hibernating"" myocardium can improve contractility and left ventricular function.","Restoring blood flow to ""hibernating"" myocardium can indeed result in improved contractility and left ventricular function, but the extent of improvement depends on several factors, including the underlying cause of hibernation, the duration of ischemia, and the method of revascularization.
+
+### Key Points:
+
+1. **What is ""hibernating"" myocardium?**
+   - Hibernating myocardium refers to myocardial cells that are temporarily reduced in contractility and metabolic demand in response to ischemia, but remain viable and functional.
+   - These cells can recover function if blood flow is restored.
+
+2. **Restoring blood flow:**
+   - Revascularization (e.g., via percutaneous coronary intervention or coronary artery bypass grafting) can restore blood flow to hibernating myocardium.
+   - This restoration can lead to improved contractility and left ventricular function, as the cells are no longer deprived of oxygen and can resume normal metabolic activity.
+
+3. **Mechanisms of improvement:**
+   - **Metabolic recovery:** Revascularization allows the myocardium to resume normal metabolic processes, which can restore contractility.
+   - **Reduction in cellular stress:** Improved blood flow reduces ischemic stress, which can prevent further damage and promote recovery.
+   - **Remodeling:** In some cases, revascularization can lead to structural remodeling of the left ventricle, which may improve function.
+
+4. **Clinical Evidence:**
+   - Studies have shown that revascularization in patients with hibernating myocardium is associated with improved left ventricular ejection fraction (LVEF) and reduced risk of adverse cardiac events.
+   - However, the degree of improvement can vary, and not all patients will experience the same level of recovery.
+
+5. **Important Considerations:**
+   - **Timing of revascularization:** Early revascularization (within 24–48 hours of acute ischemia) is generally more effective.
+   - **Patient factors:** Factors such as age, comorbidities, and the presence of other cardiac abnormalities can influence outcomes.
+   - **Follow-up:** Long-term follow-up is necessary to monitor for recurrence of hibernation or other complications.
+
+### Conclusion:
+Yes, restoring blood flow to hibernating myocardium can lead to improved contractility and left ventricular function, particularly when done promptly and appropriately. However, the outcome is not guaranteed and depends on multiple factors.","Restoring blood flow to ""hibernating"" myocardium can indeed result in improved contractility and left ventricular function, but the extent of improvement depends on several factors, including the underlying cause of hibernation, the duration of ischemia, and the method of revascularization.
+
+### Key Points:
+
+1. **What is ""hibernating"" myocardium?**
+   - Hibernating myocardium refers to myocardial cells that are temporarily reduced in contractility and metabolic demand in response to ischemia, but remain viable and functional.
+   - These cells can recover function if blood flow is restored.
+
+2. **Restoring blood flow:**
+   - Revascularization (e.g., via percutaneous coronary intervention or coronary artery bypass grafting) can restore blood flow to hibernating myocardium.
+   - This restoration can lead to improved contractility and left ventricular function, as the cells are no longer deprived of oxygen and can resume normal metabolic activity.
+
+3. **Mechanisms of improvement:**
+   - **Metabolic recovery:** Revascularization allows the myocardium to resume normal metabolic processes, which can restore contractility.
+   - **Reduction in cellular stress:** Improved blood flow reduces ischemic stress, which can prevent further damage and promote recovery.
+   - **Remodeling:** In some cases, revascularization can lead to structural remodeling of the left ventricle, which may improve function.
+
+4. **Clinical Evidence:**
+   - Studies have shown that revascularization in patients with hibernating myocardium is associated with improved left ventricular ejection fraction (LVEF) and reduced risk of adverse cardiac events.
+   - However, the degree of improvement can vary, and not all patients will experience the same level of recovery.
+
+5. **Important Considerations:**
+   - **Timing of revascularization:** Early revascularization (within 24–48 hours of acute ischemia) is generally more effective.
+   - **Patient factors:** Factors such as age, comorbidities, and the presence of other cardiac abnormalities can influence outcomes.
+   - **Follow-up:** Long-term follow-up is necessary to monitor for recurrence of hibernation or other complications.
+
+### Conclusion:
+Yes, restoring blood flow to hibernating myocardium can lead to improved contractility and left ventricular function, particularly when done promptly and appropriately. However, the outcome is not guaranteed and depends on multiple factors.",498,False,0.09287925696594428,-27.0,1.125,3.080216848918031,24,0.7988996505737305
+Qwen/Qwen3-1.7B,6,"In obstructive lung disease, the typical values for FEV1 are very low, for FVC are low, and for FEV1/FVC are low.","In obstructive lung disease, such as chronic obstructive pulmonary disease (COPD), the **FEV1 (Forced Expiratory Volume in 1 second)**, **FVC (Forced Vital Capacity)**, and **FEV1/FVC ratio** are key measures used to assess airflow obstruction.
+
+### Typical values for obstructive lung disease:
+
+- **FEV1**:  
+  - In **normal individuals**, FEV1 is typically **80% or more** of the predicted value.  
+  - In **COPD**, FEV1 is **< 80%** of the predicted value.  
+  - This is a **key indicator of airflow obstruction**.
+
+- **FVC**:  
+  - In **normal individuals**, FVC is **100% or more** of the predicted value.  
+  - In **COPD**, FVC is **also typically < 80%** of the predicted value.  
+  - This is because the airflow obstruction is **not reversible** and affects the entire volume of air exhaled.
+
+- **FEV1/FVC ratio**:  
+  - In **normal individuals**, this ratio is **> 0.70**.  
+  - In **COPD**, the ratio is **< 0.70**.  
+  - This ratio is **specific to obstructive lung disease** and is **not** useful in distinguishing between obstructive and restrictive lung diseases.
+
+### Summary:
+- **FEV1**: < 80% of predicted (in COPD)  
+- **FVC**: < 80% of predicted (in COPD)  
+- **FEV1/FVC ratio**: < 0.70 (in COPD)
+
+These values are **critical for diagnosing and monitoring COPD** and other obstructive lung diseases. If you have specific values or are concerned about your own lung function, it's best to consult a healthcare provider for interpretation.","In obstructive lung disease, such as chronic obstructive pulmonary disease (COPD), the **FEV1 (Forced Expiratory Volume in 1 second)**, **FVC (Forced Vital Capacity)**, and **FEV1/FVC ratio** are key measures used to assess airflow obstruction.
+
+### Typical values for obstructive lung disease:
+
+- **FEV1**:  
+  - In **normal individuals**, FEV1 is typically **80% or more** of the predicted value.  
+  - In **COPD**, FEV1 is **< 80%** of the predicted value.  
+  - This is a **key indicator of airflow obstruction**.
+
+- **FVC**:  
+  - In **normal individuals**, FVC is **100% or more** of the predicted value.  
+  - In **COPD**, FVC is **also typically < 80%** of the predicted value.  
+  - This is because the airflow obstruction is **not reversible** and affects the entire volume of air exhaled.
+
+- **FEV1/FVC ratio**:  
+  - In **normal individuals**, this ratio is **> 0.70**.  
+  - In **COPD**, the ratio is **< 0.70**.  
+  - This ratio is **specific to obstructive lung disease** and is **not** useful in distinguishing between obstructive and restrictive lung diseases.
+
+### Summary:
+- **FEV1**: < 80% of predicted (in COPD)  
+- **FVC**: < 80% of predicted (in COPD)  
+- **FEV1/FVC ratio**: < 0.70 (in COPD)
+
+These values are **critical for diagnosing and monitoring COPD** and other obstructive lung diseases. If you have specific values or are concerned about your own lung function, it's best to consult a healthcare provider for interpretation.",408,False,0.1552511415525114,-118.0,3.578125,35.806340977539655,33,0.7754086256027222
+Qwen/Qwen3-1.7B,7,"Lymphocytic choriomeningitis virus (LCMV) is a rodent-borne virus that can cause a range of symptoms in humans. The most common symptoms of LCMV infection include fever, headache, muscle aches, and fatigue. In some cases, LCMV can also cause inflammation of the brain and spinal cord, a condition known as meningoencephalitis. Symptoms of meningoencephalitis can include fever, headache, stiff neck, nausea and vomiting, confusion, and seizures. While most people with LCMV infection recover without complications, severe cases of meningoencephalitis can be life-threatening. Treatment for LCMV infection typically involves supportive care to manage symptoms, although antiviral medications may be used in severe cases.","Lymphocytic choriomeningitis virus (LCMV) is a viral infection that primarily affects the central nervous system. The symptoms of LCMV can vary depending on the stage of the infection and the individual's immune status. Here are the general symptoms:
+
+### **Common Symptoms:**
+- **Flu-like symptoms** (fever, chills, muscle aches, fatigue)
+- **Headache**
+- **Nausea and vomiting**
+- **Sensitivity to light (photophobia)**
+- **Fever (often around 38.5°C or 101.3°F)**
+- **Seizures** (in severe cases)
+
+### **More Severe Symptoms (in immunocompromised individuals or in pregnant women):**
+- **Neurological symptoms** such as:
+  - Confusion
+  - Seizures
+  - Weakness or paralysis
+  - Difficulty with coordination
+  - Memory loss
+- **Meningeal irritation** (e.g., neck stiffness, sensitivity to touch)
+- **Painful swelling of the lymph nodes** (especially in the neck, armpy, or groin)
+
+### **Other Possible Symptoms:**
+- **Skin rash** (in some cases)
+- **Cough**
+- **Sore throat**
+
+### **Important Notes:**
+- LCMV is typically transmitted through the bite of an infected **rodent** (such as rats or mice).
+- The virus is generally not contagious through casual contact, but it can be transmitted through the bite of an infected animal.
+- In most cases, the infection is mild and resolves on its own, but in some individuals, especially those with weakened immune systems, it can lead to severe illness.
+
+### **When to Seek Medical Attention:**
+- If you experience **severe neurological symptoms** (e.g., seizures, confusion, paralysis)
+- If you have **high fever** or **severe headache**
+- If you are **pregnant** or **immunocompromised**
+
+If you suspect you have LCMV, it is important to consult a healthcare provider for proper diagnosis and treatment.","Lymphocytic choriomeningitis virus (LCMV) is a viral infection that primarily affects the central nervous system. The symptoms of LCMV can vary depending on the stage of the infection and the individual's immune status. Here are the general symptoms:
+
+### **Common Symptoms:**
+- **Flu-like symptoms** (fever, chills, muscle aches, fatigue)
+- **Headache**
+- **Nausea and vomiting**
+- **Sensitivity to light (photophobia)**
+- **Fever (often around 38.5°C or 101.3°F)**
+- **Seizures** (in severe cases)
+
+### **More Severe Symptoms (in immunocompromised individuals or in pregnant women):**
+- **Neurological symptoms** such as:
+  - Confusion
+  - Seizures
+  - Weakness or paralysis
+  - Difficulty with coordination
+  - Memory loss
+- **Meningeal irritation** (e.g., neck stiffness, sensitivity to touch)
+- **Painful swelling of the lymph nodes** (especially in the neck, armpy, or groin)
+
+### **Other Possible Symptoms:**
+- **Skin rash** (in some cases)
+- **Cough**
+- **Sore throat**
+
+### **Important Notes:**
+- LCMV is typically transmitted through the bite of an infected **rodent** (such as rats or mice).
+- The virus is generally not contagious through casual contact, but it can be transmitted through the bite of an infected animal.
+- In most cases, the infection is mild and resolves on its own, but in some individuals, especially those with weakened immune systems, it can lead to severe illness.
+
+### **When to Seek Medical Attention:**
+- If you experience **severe neurological symptoms** (e.g., seizures, confusion, paralysis)
+- If you have **high fever** or **severe headache**
+- If you are **pregnant** or **immunocompromised**
+
+If you suspect you have LCMV, it is important to consult a healthcare provider for proper diagnosis and treatment.",438,False,0.36809815950920244,-214.0,1.34375,3.8333918047584103,159,0.824057936668396
+Qwen/Qwen3-1.7B,8,"In secondary adrenal insufficiency, the secretion of glucocorticoids is decreased.","Secondary adrenal insufficiency, also known as adrenal insufficiency due to an adrenal insufficiency, is a condition in which the adrenal glands do not produce enough cortisol and aldosterone. This is typically due to a problem in the pituitary gland (adenohypophysis) or the hypothalamus, which are part of the hypothalamic-pituitary-adrenal (HPA) axis.
+
+### Effect on the secretion of glucocorticoids:
+
+In **secondary adrenal insufficiency**, the **adrenal glands themselves are not functioning properly**, but the **deficiency is due to a problem in the HPA axis**. The **pituitary gland** fails to produce enough **adrenocorticotropic hormone (ACTH)**, which is necessary for the adrenal glands to secrete glucocorticoids (such as cortisol).
+
+### Key points:
+- **ACTH deficiency** leads to **reduced secretion of cortisol**.
+- The **adrenal glands** are not functioning due to **lack of ACTH**, not due to a direct lesion in the adrenal cortex.
+- The **hypothalamus and pituitary gland** are the primary sites of dysfunction in secondary adrenal insufficiency.
+
+### Summary:
+Secondary adrenal insufficiency results in **reduced secretion of glucocorticoids (cortisol)** because the **adrenal glands do not receive adequate ACTH** from the pituitary gland.","Secondary adrenal insufficiency, also known as adrenal insufficiency due to an adrenal insufficiency, is a condition in which the adrenal glands do not produce enough cortisol and aldosterone. This is typically due to a problem in the pituitary gland (adenohypophysis) or the hypothalamus, which are part of the hypothalamic-pituitary-adrenal (HPA) axis.
+
+### Effect on the secretion of glucocorticoids:
+
+In **secondary adrenal insufficiency**, the **adrenal glands themselves are not functioning properly**, but the **deficiency is due to a problem in the HPA axis**. The **pituitary gland** fails to produce enough **adrenocorticotropic hormone (ACTH)**, which is necessary for the adrenal glands to secrete glucocorticoids (such as cortisol).
+
+### Key points:
+- **ACTH deficiency** leads to **reduced secretion of cortisol**.
+- The **adrenal glands** are not functioning due to **lack of ACTH**, not due to a direct lesion in the adrenal cortex.
+- The **hypothalamus and pituitary gland** are the primary sites of dysfunction in secondary adrenal insufficiency.
+
+### Summary:
+Secondary adrenal insufficiency results in **reduced secretion of glucocorticoids (cortisol)** because the **adrenal glands do not receive adequate ACTH** from the pituitary gland.",294,False,0.0975609756097561,-35.5,2.078125,7.9894745966477085,17,0.7736568450927734
+Qwen/Qwen3-1.7B,9,Multiple myeloma is associated with the formation of Rouleaux of red blood cells on a blood smear.,"Multiple myeloma is a type of cancer that arises from plasma cells, which are a type of white blood cell. In the context of a blood smear, the appearance of red blood cells (RBCs) can be affected by the presence of multiple myeloma.
+
+### Key Points:
+
+1. **RBCs in a Blood Smear**:
+   - Normally, RBCs in a blood smear appear as round, pale cells with a central pallor (the ""smear"" or ""pyknic"" pattern).
+   - In some cases, RBCs may appear enlarged (macrocytic) or smaller (microcytic), or may have a ""target"" appearance (a hallmark of certain anemias like iron deficiency anemia).
+
+2. **Multiple Myeloma and RBCs**:
+   - In multiple myeloma, the bone marrow is infiltrated by malignant plasma cells, which can interfere with the normal production of RBCs.
+   - This can lead to **anemia** (low RBC count) and **poor RBC quality** (e.g., smaller, paler, or fragmented RBCs).
+
+3. **Appearance on a Blood Smear**:
+   - In multiple myeloma, RBCs may appear **larger** (macrocytic) or **smaller** (microcytic) than normal.
+   - They may also appear **fragmented** or **targeted** (a sign of anemia of chronic disease or other conditions).
+   - In some cases, RBCs may be **pale** (due to reduced hemoglobin content) or **reticulocytopenia** (low reticulocyte count, indicating poor RBC production).
+
+4. **Other Features**:
+   - The presence of **plasma cells** in the bone marrow (as seen on a blood smear) is a key diagnostic feature of multiple myeloma.
+   - The **presence of abnormal RBCs** (e.g., target cells, fragmented cells) can also be observed in the blood smear.
+
+### Summary:
+The association between multiple myeloma and the appearance of red blood cells on a blood smear is that **multiple myeloma can lead to abnormal RBC morphology**, such as macrocytic, microcytic, or fragmented RBCs, due to the infiltration of the bone marrow by malignant plasma cells and the resulting anemia. These findings are important in the diagnosis and monitoring of multiple myeloma","Multiple myeloma is a type of cancer that arises from plasma cells, which are a type of white blood cell. In the context of a blood smear, the appearance of red blood cells (RBCs) can be affected by the presence of multiple myeloma.
+
+### Key Points:
+
+1. **RBCs in a Blood Smear**:
+   - Normally, RBCs in a blood smear appear as round, pale cells with a central pallor (the ""smear"" or ""pyknic"" pattern).
+   - In some cases, RBCs may appear enlarged (macrocytic) or smaller (microcytic), or may have a ""target"" appearance (a hallmark of certain anemias like iron deficiency anemia).
+
+2. **Multiple Myeloma and RBCs**:
+   - In multiple myeloma, the bone marrow is infiltrated by malignant plasma cells, which can interfere with the normal production of RBCs.
+   - This can lead to **anemia** (low RBC count) and **poor RBC quality** (e.g., smaller, paler, or fragmented RBCs).
+
+3. **Appearance on a Blood Smear**:
+   - In multiple myeloma, RBCs may appear **larger** (macrocytic) or **smaller** (microcytic) than normal.
+   - They may also appear **fragmented** or **targeted** (a sign of anemia of chronic disease or other conditions).
+   - In some cases, RBCs may be **pale** (due to reduced hemoglobin content) or **reticulocytopenia** (low reticulocyte count, indicating poor RBC production).
+
+4. **Other Features**:
+   - The presence of **plasma cells** in the bone marrow (as seen on a blood smear) is a key diagnostic feature of multiple myeloma.
+   - The **presence of abnormal RBCs** (e.g., target cells, fragmented cells) can also be observed in the blood smear.
+
+### Summary:
+The association between multiple myeloma and the appearance of red blood cells on a blood smear is that **multiple myeloma can lead to abnormal RBC morphology**, such as macrocytic, microcytic, or fragmented RBCs, due to the infiltration of the bone marrow by malignant plasma cells and the resulting anemia. These findings are important in the diagnosis and monitoring of multiple myeloma",512,False,0.0821917808219178,-57.5,2.609375,13.59055410055989,22,0.782485842704773
+Qwen/Qwen3-1.7B,10,The anterior drawer test is performed with the knee at a 90 degree angle to test for ACL injury.,"The **anterior drawer test** is a clinical examination used to assess the integrity of the **intertrochanteric ligament** (also known as the **posterior cruciate ligament** or **PCL**), which is part of the knee's stabilizing structure. It is commonly used to detect **PCL tears** or **other ligamentous injuries**.
+
+### How the Test is Performed:
+- The examiner places the patient in a **supine position** (lying on their back).
+- The patient's **knee is flexed to 90 degrees** (straight leg raise position).
+- The examiner applies **medial and lateral pressure** to the knee while **pulling the tibia forward** (anterior drawer).
+- This action is performed with the **knee slightly flexed** (usually 90 degrees) and the **foot slightly plantarflexed** (pointing downward) to increase the likelihood of a positive test.
+
+### Key Points:
+- The **anterior drawer test** is **not** used to assess the **posterior cruciate ligament** (PCL), but rather the **intertrochanteric ligament**.
+- A **positive test** (pain or instability) may indicate a **PCL tear** or **other ligamentous injury**.
+- The **knee is typically positioned at 90 degrees** during the test.
+
+### Summary:
+- **Test name**: Anterior drawer test.
+- **Purpose**: To assess the integrity of the intertrochanteric ligament (PCL).
+- **Knee position**: **90 degrees** (flexed).
+- **Test technique**: Apply medial and lateral pressure while pulling the tibia forward.","The **anterior drawer test** is a clinical examination used to assess the integrity of the **intertrochanteric ligament** (also known as the **posterior cruciate ligament** or **PCL**), which is part of the knee's stabilizing structure. It is commonly used to detect **PCL tears** or **other ligamentous injuries**.
+
+### How the Test is Performed:
+- The examiner places the patient in a **supine position** (lying on their back).
+- The patient's **knee is flexed to 90 degrees** (straight leg raise position).
+- The examiner applies **medial and lateral pressure** to the knee while **pulling the tibia forward** (anterior drawer).
+- This action is performed with the **knee slightly flexed** (usually 90 degrees) and the **foot slightly plantarflexed** (pointing downward) to increase the likelihood of a positive test.
+
+### Key Points:
+- The **anterior drawer test** is **not** used to assess the **posterior cruciate ligament** (PCL), but rather the **intertrochanteric ligament**.
+- A **positive test** (pain or instability) may indicate a **PCL tear** or **other ligamentous injury**.
+- The **knee is typically positioned at 90 degrees** during the test.
+
+### Summary:
+- **Test name**: Anterior drawer test.
+- **Purpose**: To assess the integrity of the intertrochanteric ligament (PCL).
+- **Knee position**: **90 degrees** (flexed).
+- **Test technique**: Apply medial and lateral pressure while pulling the tibia forward.",359,False,0.12631578947368421,-130.0,5.90625,367.3260965541814,22,0.7789285778999329
+Qwen/Qwen3-1.7B,11,Chloramphenicol is the protein synthesis inhibitor that can result in dose-independent aplastic anemia.,"There is no known protein synthesis inhibitor that causes **aplastic anemia** **independent of the dose**. Aplastic anemia is a condition in which the bone marrow fails to produce enough blood cells, leading to a decrease in red blood cells, white blood cells, and platelets.
+
+### Key points:
+- **Aplastic anemia** is typically caused by **toxic effects** on the bone marrow, often due to **chemotherapeutic agents** or **radiation**.
+- **Protein synthesis inhibitors** (such as **hydroxyurea**, **chloramphenicol**, **mercaptopurine**, and **cyclosporine**) are **dose-dependent** in causing bone marrow suppression.
+- **Cyclosporine** is an example of a **protein synthesis inhibitor** that can cause **aplastic anemia** **independent of dose**, but this is **not** the case for all protein synthesis inhibitors.
+- **Hydroxyurea** and **mercaptopurine** are **dose-dependent** in causing bone marrow suppression, but they are not known to cause aplastic anemia **independent of dose**.
+
+### Conclusion:
+There is no protein synthesis inhibitor that causes **aplastic anemia independently of the dose**. The most well-known example of a protein synthesis inhibitor that can cause aplastic anemia is **cyclosporine**, but this is **dose-dependent**. Other protein synthesis inhibitors (e.g., hydroxyurea, mercaptopurine) are **dose-dependent** in causing bone marrow suppression, but not aplastic anemia.
+
+If you are referring to a specific case or drug, please provide more context for a more accurate answer.","There is no known protein synthesis inhibitor that causes **aplastic anemia** **independent of the dose**. Aplastic anemia is a condition in which the bone marrow fails to produce enough blood cells, leading to a decrease in red blood cells, white blood cells, and platelets.
+
+### Key points:
+- **Aplastic anemia** is typically caused by **toxic effects** on the bone marrow, often due to **chemotherapeutic agents** or **radiation**.
+- **Protein synthesis inhibitors** (such as **hydroxyurea**, **chloramphenicol**, **mercaptopurine**, and **cyclosporine**) are **dose-dependent** in causing bone marrow suppression.
+- **Cyclosporine** is an example of a **protein synthesis inhibitor** that can cause **aplastic anemia** **independent of dose**, but this is **not** the case for all protein synthesis inhibitors.
+- **Hydroxyurea** and **mercaptopurine** are **dose-dependent** in causing bone marrow suppression, but they are not known to cause aplastic anemia **independent of dose**.
+
+### Conclusion:
+There is no protein synthesis inhibitor that causes **aplastic anemia independently of the dose**. The most well-known example of a protein synthesis inhibitor that can cause aplastic anemia is **cyclosporine**, but this is **dose-dependent**. Other protein synthesis inhibitors (e.g., hydroxyurea, mercaptopurine) are **dose-dependent** in causing bone marrow suppression, but not aplastic anemia.
+
+If you are referring to a specific case or drug, please provide more context for a more accurate answer.",359,False,0.1142857142857143,-79.5,3.78125,43.87084603329354,21,0.6323820352554321
+Qwen/Qwen3-1.7B,12,"Maternal diabetes during the first trimester of pregnancy is associated with an increased risk of fetal cardiac, limb, and neural tube defects. This is because high blood sugar levels in the mother can interfere with the normal development of the fetus during this critical period. It is important for women with diabetes to closely monitor their blood sugar levels and receive appropriate medical care before and during pregnancy to reduce the risk of complications for themselves and their babies. Additionally, women who are planning to become pregnant should discuss their diabetes management plan with their healthcare provider to ensure that their blood sugar levels are well-controlled before conception.","Maternal diabetes, particularly gestational diabetes, can have significant associations with fetal development during the first trimester of pregnancy. Here are the key points:
+
+1. **Increased Risk of Fetal Growth Restriction (FGR):**  
+   - Maternal diabetes can lead to reduced placental blood flow, which may result in inadequate nutrient and oxygen supply to the fetus. This can increase the risk of fetal growth restriction, where the baby is smaller than expected for gestational age.
+
+2. **Preterm Birth:**  
+   - Women with diabetes are at higher risk for preterm labor and preterm birth, which can be associated with complications such as respiratory distress, low birth weight, and developmental issues.
+
+3. **Neural Tube Defects (NTDs):**  
+   - Maternal diabetes may increase the risk of neural tube defects, such as spina bifida, due to impaired folate metabolism and altered placental function.
+
+4. **Fetal Macrosomia:**  
+   - In some cases, maternal diabetes can lead to fetal macrosomia (excessive fetal growth), which increases the risk of birth complications, such as shoulder dystocia, cesarean delivery, and neonatal hypoglycemia.
+
+5. **Early Pregnancy Complications:**  
+   - Maternal diabetes can cause early pregnancy complications, including polyhydramnios (excess amniotic fluid), which may increase the risk of preterm birth.
+
+6. **Long-Term Fetal Outcomes:**  
+   - While the first trimester is critical for fetal development, the long-term outcomes of fetal growth and development are influenced by the entire pregnancy. However, early maternal diabetes can still have lasting effects on fetal health.
+
+### Key Considerations:
+- **Gestational Diabetes:** This is the most common form of diabetes during pregnancy and is often managed with diet, exercise, and, if necessary, insulin.
+- **Type 1 and Type 2 Diabetes:** These are not typically considered ""gestational"" but can still affect fetal development, especially if the mother has poorly controlled diabetes.
+
+### Conclusion:
+Maternal diabetes during the first trimester is associated with increased risks of fetal growth restriction, preterm birth, neural tube defects, and other complications. Proper management of maternal diabetes, including regular monitoring and appropriate medical care, is crucial to minimize these risks and support healthy fetal development.","Maternal diabetes, particularly gestational diabetes, can have significant associations with fetal development during the first trimester of pregnancy. Here are the key points:
+
+1. **Increased Risk of Fetal Growth Restriction (FGR):**  
+   - Maternal diabetes can lead to reduced placental blood flow, which may result in inadequate nutrient and oxygen supply to the fetus. This can increase the risk of fetal growth restriction, where the baby is smaller than expected for gestational age.
+
+2. **Preterm Birth:**  
+   - Women with diabetes are at higher risk for preterm labor and preterm birth, which can be associated with complications such as respiratory distress, low birth weight, and developmental issues.
+
+3. **Neural Tube Defects (NTDs):**  
+   - Maternal diabetes may increase the risk of neural tube defects, such as spina bifida, due to impaired folate metabolism and altered placental function.
+
+4. **Fetal Macrosomia:**  
+   - In some cases, maternal diabetes can lead to fetal macrosomia (excessive fetal growth), which increases the risk of birth complications, such as shoulder dystocia, cesarean delivery, and neonatal hypoglycemia.
+
+5. **Early Pregnancy Complications:**  
+   - Maternal diabetes can cause early pregnancy complications, including polyhydramnios (excess amniotic fluid), which may increase the risk of preterm birth.
+
+6. **Long-Term Fetal Outcomes:**  
+   - While the first trimester is critical for fetal development, the long-term outcomes of fetal growth and development are influenced by the entire pregnancy. However, early maternal diabetes can still have lasting effects on fetal health.
+
+### Key Considerations:
+- **Gestational Diabetes:** This is the most common form of diabetes during pregnancy and is often managed with diet, exercise, and, if necessary, insulin.
+- **Type 1 and Type 2 Diabetes:** These are not typically considered ""gestational"" but can still affect fetal development, especially if the mother has poorly controlled diabetes.
+
+### Conclusion:
+Maternal diabetes during the first trimester is associated with increased risks of fetal growth restriction, preterm birth, neural tube defects, and other complications. Proper management of maternal diabetes, including regular monitoring and appropriate medical care, is crucial to minimize these risks and support healthy fetal development.",483,False,0.27951807228915665,-184.0,1.5625,4.770733181967603,118,0.8218109607696533
+Qwen/Qwen3-1.7B,13,"Kallmann syndrome typically presents as infertility in males and amenorrhea in females, and anosmia may be present in both sexes. Kallmann syndrome is a genetic disorder that affects the development of the hypothalamus and the olfactory system. It can cause a lack of or delayed puberty, as well as a reduced sense of smell. In males, Kallmann syndrome can cause small testicles, reduced muscle mass, and decreased facial and body hair. In females, it can cause a lack of breast development, a small uterus, and absent or irregular menstrual periods. Treatment for Kallmann syndrome may involve hormone therapy to induce puberty and fertility, as well as olfactory training to improve the sense of smell.","Kallmann syndrome is a rare endocrine disorder characterized by a combination of hypogonadism (underdevelopment or dysfunction of the testes in males and ovaries in females) and a deficiency in the hormone gonadotropin-releasing hormone (GnRH). This syndrome is often associated with a lack of the scent cue (olfactory cue) that signals the brain to produce GnRH, leading to delayed puberty and infertility.
+
+### Typical Symptoms in Males:
+- **Delayed or absent puberty** (no development of secondary sexual characteristics)
+- **Infertility** (due to underdeveloped testes)
+- **Low testosterone levels** (leading to reduced muscle mass, reduced body hair, and decreased libido)
+- **Hypogonadism** (underproduction of sperm and testosterone)
+- **Potential for a small penis** or a low penis (in some cases)
+- **No smell of pheromones** (in some cases, though this is not always present)
+
+### Typical Symptoms in Females:
+- **Delayed or absent puberty** (no development of secondary sexual characteristics)
+- **Infertility** (due to underdeveloped ovaries)
+- **Low estrogen levels** (leading to reduced breast development, thinning of the skin, and irregular menstrual cycles)
+- **Hypogonadism** (underproduction of eggs and estrogen)
+- **No smell of pheromones** (in some cases, though this is not always present)
+
+### Symptom Common to Both Sexes:
+- **No smell of pheromones** (olfactory cue deficiency) is a common symptom in both males and females, as it is a key trigger for GnRH release.
+
+### Additional Considerations:
+- Kallmann syndrome is often associated with **mental retardation** or **intellectual disability** in some cases, but this is not universal.
+- It can be **genetic** (autosomal recessive) or **congenital** (present at birth), though the exact cause is not always clear.
+
+### Diagnosis:
+- **Genetic testing** (for mutations in the *KAL1* gene)
+- **Blood tests** to measure hormone levels (e.g., GnRH, LH, FSH, testosterone, estrogen)
+- **MRI of the brain** to look for the absence of the **infundibular bulb** (a structure in the hypothalamus that produces GnRH)
+
+If you or someone you know is experiencing these symptoms, it is important to consult","Kallmann syndrome is a rare endocrine disorder characterized by a combination of hypogonadism (underdevelopment or dysfunction of the testes in males and ovaries in females) and a deficiency in the hormone gonadotropin-releasing hormone (GnRH). This syndrome is often associated with a lack of the scent cue (olfactory cue) that signals the brain to produce GnRH, leading to delayed puberty and infertility.
+
+### Typical Symptoms in Males:
+- **Delayed or absent puberty** (no development of secondary sexual characteristics)
+- **Infertility** (due to underdeveloped testes)
+- **Low testosterone levels** (leading to reduced muscle mass, reduced body hair, and decreased libido)
+- **Hypogonadism** (underproduction of sperm and testosterone)
+- **Potential for a small penis** or a low penis (in some cases)
+- **No smell of pheromones** (in some cases, though this is not always present)
+
+### Typical Symptoms in Females:
+- **Delayed or absent puberty** (no development of secondary sexual characteristics)
+- **Infertility** (due to underdeveloped ovaries)
+- **Low estrogen levels** (leading to reduced breast development, thinning of the skin, and irregular menstrual cycles)
+- **Hypogonadism** (underproduction of eggs and estrogen)
+- **No smell of pheromones** (in some cases, though this is not always present)
+
+### Symptom Common to Both Sexes:
+- **No smell of pheromones** (olfactory cue deficiency) is a common symptom in both males and females, as it is a key trigger for GnRH release.
+
+### Additional Considerations:
+- Kallmann syndrome is often associated with **mental retardation** or **intellectual disability** in some cases, but this is not universal.
+- It can be **genetic** (autosomal recessive) or **congenital** (present at birth), though the exact cause is not always clear.
+
+### Diagnosis:
+- **Genetic testing** (for mutations in the *KAL1* gene)
+- **Blood tests** to measure hormone levels (e.g., GnRH, LH, FSH, testosterone, estrogen)
+- **MRI of the brain** to look for the absence of the **infundibular bulb** (a structure in the hypothalamus that produces GnRH)
+
+If you or someone you know is experiencing these symptoms, it is important to consult",512,False,0.3511450381679389,-308.0,2.125,8.372897488127265,145,0.850293755531311
+Qwen/Qwen3-1.7B,14,How is follicular lymphoma distinguished from reactive follicular hyperplasia in terms of lymph node architecture? Follicular lymphoma is distinguished from reactive follicular hyperplasia by disruption of normal lymph node architecture.,"Follicular lymphoma and reactive follicular hyperplasia are two distinct entities in lymph node pathology, and they can be distinguished based on **lymph node architecture** and other histopathological features.
+
+### Key Differences in Lymph Node Architecture:
+
+#### 1. **Follicular Lymphoma:**
+- **Architecture:** 
+  - The lymph nodes are **not fully replaced** by lymphoid tissue.
+  - The **follicular pattern** is preserved, but the **lymphoid cells** are **not confined to the follicles**.
+  - The **follicles** are **not fully replaced** by lymphoid cells, and the **lymphoid cells** are **not organized into a dense, uniform pattern**.
+  - The **lymphoid cells** are **distributed throughout the node**, often in **small clusters** or **infiltrating the connective tissue**.
+  - The **architecture** is **not uniform** and may show **focal or scattered infiltration**.
+
+- **Other Features:**
+  - **Lymphoid cell proliferation** is **not confined to the follicles**.
+  - **Follicular dendritic cells** are **present** but are **not in a dense network**.
+  - **No significant architectural replacement** of the nodal architecture.
+
+#### 2. **Reactive Follicular Hyperplasia:**
+- **Architecture:**
+  - The **lymphoid cells** are **confined to the follicles**.
+  - The **follicles** are **fully replaced** by **lymphoid cells**.
+  - The **architecture** is **uniform and well-organized**.
+  - The **lymphoid cells** are **in a dense, uniform pattern** within the follicles.
+  - The **connective tissue** is **not significantly replaced**.
+
+- **Other Features:**
+  - **Lymphoid cell proliferation** is **confined to the follicles**.
+  - **Follicular dendritic cells** are **present** but in a **dense network**.
+  - **No architectural replacement** of the nodal architecture.
+
+### Summary:
+| Feature                | Follicular Lymphoma                     | Reactive Follicular Hyperplasia |
+|------------------------|------------------------------------------|----------------------------------|
+| **Lymphoid cell pattern** | Infiltrating, scattered, not confined to follicles | Confined to follicles, dense, uniform |","Follicular lymphoma and reactive follicular hyperplasia are two distinct entities in lymph node pathology, and they can be distinguished based on **lymph node architecture** and other histopathological features.
+
+### Key Differences in Lymph Node Architecture:
+
+#### 1. **Follicular Lymphoma:**
+- **Architecture:** 
+  - The lymph nodes are **not fully replaced** by lymphoid tissue.
+  - The **follicular pattern** is preserved, but the **lymphoid cells** are **not confined to the follicles**.
+  - The **follicles** are **not fully replaced** by lymphoid cells, and the **lymphoid cells** are **not organized into a dense, uniform pattern**.
+  - The **lymphoid cells** are **distributed throughout the node**, often in **small clusters** or **infiltrating the connective tissue**.
+  - The **architecture** is **not uniform** and may show **focal or scattered infiltration**.
+
+- **Other Features:**
+  - **Lymphoid cell proliferation** is **not confined to the follicles**.
+  - **Follicular dendritic cells** are **present** but are **not in a dense network**.
+  - **No significant architectural replacement** of the nodal architecture.
+
+#### 2. **Reactive Follicular Hyperplasia:**
+- **Architecture:**
+  - The **lymphoid cells** are **confined to the follicles**.
+  - The **follicles** are **fully replaced** by **lymphoid cells**.
+  - The **architecture** is **uniform and well-organized**.
+  - The **lymphoid cells** are **in a dense, uniform pattern** within the follicles.
+  - The **connective tissue** is **not significantly replaced**.
+
+- **Other Features:**
+  - **Lymphoid cell proliferation** is **confined to the follicles**.
+  - **Follicular dendritic cells** are **present** but in a **dense network**.
+  - **No architectural replacement** of the nodal architecture.
+
+### Summary:
+| Feature                | Follicular Lymphoma                     | Reactive Follicular Hyperplasia |
+|------------------------|------------------------------------------|----------------------------------|
+| **Lymphoid cell pattern** | Infiltrating, scattered, not confined to follicles | Confined to follicles, dense, uniform |
+",512,False,0.1885245901639344,-113.0,2.625,13.804574186067095,43,0.8226673603057861
+Qwen/Qwen3-1.7B,15,"The condition that is suggested by the presence of a smooth, non-tender abdominal mass in a child aged 2-5 that does not cross the midline and is associated with hematuria and hypertension is Wilms tumor (nephroblastoma). Wilms tumor is a type of kidney cancer that primarily affects children and is typically diagnosed between the ages of 2 and 5. It is important to consult with a healthcare professional for a proper diagnosis and management of symptoms.","The presence of a **smooth, non-tender abdominal mass** in a child aged 2–5 years that **does not cross the midline** and is associated with **hematuria (blood in the urine)** and **hypertension** is most commonly associated with **Renal Cell Carcinoma (RCC)**, specifically **Renal Cell Carcinoma of the Kidney**.
+
+### Key Features:
+- **Smooth, non-tender mass** in the abdomen (often in the flank or lower back)
+- **No midline crossing** (suggesting a unilateral mass)
+- **Hematuria** (blood in the urine)
+- **Hypertension** (elevated blood pressure)
+
+### Important Notes:
+- **Renal Cell Carcinoma** is the most common type of kidney cancer in children, and it can present with these symptoms.
+- The mass is typically **unilateral**, and the presence of **hematuria and hypertension** is a key clinical finding.
+- Early diagnosis is critical, as renal cell carcinoma can progress rapidly and may be life-threatening if not treated.
+
+### Other Considerations:
+- **Renal cysts** or **renal adenomas** can also cause a mass, but they are usually **tender**, **tenderness** is not typically present in these cases.
+- **Renal tuberculosis** or **renal infarction** can cause similar symptoms, but they are less likely to present with **hematuria and hypertension** in the absence of other signs.
+
+### Conclusion:
+The most likely diagnosis in this scenario is **Renal Cell Carcinoma (RCC)**, and further evaluation (e.g., imaging, urine analysis, and biopsy) is necessary for confirmation.","The presence of a **smooth, non-tender abdominal mass** in a child aged 2–5 years that **does not cross the midline** and is associated with **hematuria (blood in the urine)** and **hypertension** is most commonly associated with **Renal Cell Carcinoma (RCC)**, specifically **Renal Cell Carcinoma of the Kidney**.
+
+### Key Features:
+- **Smooth, non-tender mass** in the abdomen (often in the flank or lower back)
+- **No midline crossing** (suggesting a unilateral mass)
+- **Hematuria** (blood in the urine)
+- **Hypertension** (elevated blood pressure)
+
+### Important Notes:
+- **Renal Cell Carcinoma** is the most common type of kidney cancer in children, and it can present with these symptoms.
+- The mass is typically **unilateral**, and the presence of **hematuria and hypertension** is a key clinical finding.
+- Early diagnosis is critical, as renal cell carcinoma can progress rapidly and may be life-threatening if not treated.
+
+### Other Considerations:
+- **Renal cysts** or **renal adenomas** can also cause a mass, but they are usually **tender**, **tenderness** is not typically present in these cases.
+- **Renal tuberculosis** or **renal infarction** can cause similar symptoms, but they are less likely to present with **hematuria and hypertension** in the absence of other signs.
+
+### Conclusion:
+The most likely diagnosis in this scenario is **Renal Cell Carcinoma (RCC)**, and further evaluation (e.g., imaging, urine analysis, and biopsy) is necessary for confirmation.",357,False,0.3494423791821561,-156.0,1.609375,4.999685447724227,97,0.7046412229537964
+Qwen/Qwen3-1.7B,16,"Anti-staph penicillins are a type of antibacterial medication that are specifically designed to target and treat infections caused by Staphylococcus bacteria. Unlike other types of penicillins, anti-staph penicillins have bulky R-groups that block access of the β-lactam ring, which is the part of the penicillin molecule that is typically targeted by penicillinase/β-lactamase enzymes. This makes anti-staph penicillins more resistant to these enzymes and allows them to be more effective against Staphylococcus infections. Other types of penicillins may be less effective against Staphylococcus infections because they are more susceptible to degradation by penicillinase/β-lactamase enzymes.","Anti-staphylococcal penicillins are a class of antibiotics that are specifically effective against *Staphylococcus aureus* (including both *S. aureus* and *S. epidermidis*). They are also known as **penicillins with resistance to penicillinase (β-lactamase)**, as they are designed to overcome the resistance of *S. aureus* to β-lactam antibiotics like penicillin.
+
+---
+
+### **What are anti-staphylococcal penicillins?**
+
+They are a subclass of **penicillins** that are **resistant to β-lactamase** (an enzyme produced by *S. aureus* that inactivates penicillin). This resistance is a key reason these antibiotics are specifically used for treating staphylococcal infections.
+
+---
+
+### **How do they differ from other penicillins?**
+
+| Feature | Anti-Staphylococcal Penicillins | Other Penicillins (e.g., Penicillin G, Amoxicillin, etc.) |
+|--------|----------------------------------|-----------------------------------------------|
+| **β-Lactamase Resistance** | **Resistant to β-lactamase** | **Not resistant to β-lactamase** |
+| **Mechanism of Action** | Inhibit bacterial cell wall synthesis | Inhibit bacterial cell wall synthesis |
+| **Clinical Use** | Used for treating *S. aureus* infections (including MRSA) | Used for a broader range of bacterial infections |
+| **Examples** | Penicillin G, Amoxicillin, Piperacillin, Cefaclor, Cefoperazone | Penicillin G, Amoxicillin, Cefaclor, Cefoperazone, etc. |
+
+---
+
+### **Key Points:**
+
+- **Anti-staphylococcal penicillins** are **not** the same as **anti-staphylococcal antibiotics** (e.g., vancomycin, linezolid, or daptomycin), which are used for **resistant staphylococci** (e.g., MRSA).
+- These penicillins are **resistant to β-lactamase**, which is a key reason they are effective against *S. aureus* that has developed resistance to other penicillins.
+- They are often used in **combination with other antibiotics** (e","Anti-staphylococcal penicillins are a class of antibiotics that are specifically effective against *Staphylococcus aureus* (including both *S. aureus* and *S. epidermidis*). They are also known as **penicillins with resistance to penicillinase (β-lactamase)**, as they are designed to overcome the resistance of *S. aureus* to β-lactam antibiotics like penicillin.
+
+---
+
+### **What are anti-staphylococcal penicillins?**
+
+They are a subclass of **penicillins** that are **resistant to β-lactamase** (an enzyme produced by *S. aureus* that inactivates penicillin). This resistance is a key reason these antibiotics are specifically used for treating staphylococcal infections.
+
+---
+
+### **How do they differ from other penicillins?**
+
+| Feature | Anti-Staphylococcal Penicillins | Other Penicillins (e.g., Penicillin G, Amoxicillin, etc.) |
+|--------|----------------------------------|-----------------------------------------------|
+| **β-Lactamase Resistance** | **Resistant to β-lactamase** | **Not resistant to β-lactamase** |
+| **Mechanism of Action** | Inhibit bacterial cell wall synthesis | Inhibit bacterial cell wall synthesis |
+| **Clinical Use** | Used for treating *S. aureus* infections (including MRSA) | Used for a broader range of bacterial infections |
+| **Examples** | Penicillin G, Amoxicillin, Piperacillin, Cefaclor, Cefoperazone | Penicillin G, Amoxicillin, Cefaclor, Cefoperazone, etc. |
+
+---
+
+### **Key Points:**
+
+- **Anti-staphylococcal penicillins** are **not** the same as **anti-staphylococcal antibiotics** (e.g., vancomycin, linezolid, or daptomycin), which are used for **resistant staphylococci** (e.g., MRSA).
+- These penicillins are **resistant to β-lactamase**, which is a key reason they are effective against *S. aureus* that has developed resistance to other penicillins.
+- They are often used in **combination with other antibiotics** (e",512,False,0.325,-288.0,1.84375,6.320194607432744,157,0.8451553583145142
+Qwen/Qwen3-1.7B,17,"Respiratory syncytial virus (RSV) is the most common primary agent causing bronchiolitis. RSV is a highly contagious virus that affects the respiratory tract, particularly in infants and young children. Symptoms of RSV infection may include coughing, wheezing, difficulty breathing, fever, and runny nose. In severe cases, RSV infection can lead to bronchiolitis, which is an inflammation of the small airways in the lungs. Treatment for RSV infection may involve supportive care, such as oxygen therapy or intravenous fluids, and in some cases, antiviral medications may be prescribed. Prevention of RSV infection is key, and measures such as frequent hand washing, avoiding close contact with sick individuals, and vaccination for high-risk individuals can help reduce the spread of the virus. Overall, RSV is a major cause of respiratory illness in infants and young children, and it is important to take steps to prevent and manage the infection.","The most common primary agent of bronchiolitis is **rhinovirus**. 
+
+Bronchiolitis is an acute lower respiratory tract infection primarily affecting young children, characterized by inflammation and narrowing of the small airways (bronchioles). It is most commonly caused by **rhinovirus**, which accounts for approximately **40-50% of all cases**. 
+
+Other common causes include:
+
+- **Respiratory syncytial virus (RSV)**: Accounts for about **30-40% of cases**.
+- **Adenovirus**: Accounts for about **5-10% of cases**.
+- **Influenza virus**: Rare, but can cause severe cases in young children.
+- **Parainfluenza virus**: Also rare but can contribute to severe cases.
+
+Rhinovirus is the leading cause, particularly in infants and young children, and is often associated with seasonal variations.","The most common primary agent of bronchiolitis is **rhinovirus**. 
+
+Bronchiolitis is an acute lower respiratory tract infection primarily affecting young children, characterized by inflammation and narrowing of the small airways (bronchioles). It is most commonly caused by **rhinovirus**, which accounts for approximately **40-50% of all cases**. 
+
+Other common causes include:
+
+- **Respiratory syncytial virus (RSV)**: Accounts for about **30-40% of cases**.
+- **Adenovirus**: Accounts for about **5-10% of cases**.
+- **Influenza virus**: Rare, but can cause severe cases in young children.
+- **Parainfluenza virus**: Also rare but can contribute to severe cases.
+
+Rhinovirus is the leading cause, particularly in infants and young children, and is often associated with seasonal variations.",194,False,0.4297520661157025,-302.0,1.546875,4.69676981955058,196,0.7759060859680176
+Qwen/Qwen3-1.7B,18,Inhibiting Gi via the pertussis toxin can result in increased levels of cAMP.,"Inhibiting Gi (G protein-coupled receptor (GPCR) G protein) via the pertussis toxin has a significant impact on cAMP levels in cells. Pertussis toxin, produced by *Bordetella pertussis*, is a potent inhibitor of the Gi protein, which is part of the G protein-coupled receptor signaling pathway.
+
+### Key points about the impact of pertussis toxin on cAMP levels:
+
+1. **Inhibition of Gi protein**: Pertussis toxin binds to the Gi protein and inactivates it, preventing the activation of adenylyl cyclase.
+
+2. **Reduction of cAMP levels**: 
+   - Gi proteins are responsible for the activation of adenylyl cyclase, which converts ATP to cAMP.
+   - When Gi is inhibited, adenylyl cyclase is not activated, leading to a decrease in cAMP production.
+   - This results in a **decrease in intracellular cAMP levels**.
+
+3. **Effects on cellular signaling**:
+   - Lower cAMP levels can lead to the inactivation of protein kinase A (PKA), which is a key enzyme in many cellular processes, including gene expression, metabolism, and cell proliferation.
+   - This can disrupt signaling pathways that are normally activated by cAMP, such as those involving the transcription factor CREB (cAMP response element-binding protein).
+
+4. **Implications for disease**:
+   - In the context of *Bordetella pertussis*, pertussis toxin is used to inhibit the Gi protein, which is important for the pathogenesis of whooping cough. The inhibition of Gi leads to a decrease in cAMP, which can affect the host's immune response and respiratory function.
+
+### Summary:
+- **Pertussis toxin** inhibits Gi protein, leading to **reduced cAMP levels**.
+- This reduction in cAMP affects downstream signaling pathways and can have significant effects on cellular function and host physiology.","Inhibiting Gi (G protein-coupled receptor (GPCR) G protein) via the pertussis toxin has a significant impact on cAMP levels in cells. Pertussis toxin, produced by *Bordetella pertussis*, is a potent inhibitor of the Gi protein, which is part of the G protein-coupled receptor signaling pathway.
+
+### Key points about the impact of pertussis toxin on cAMP levels:
+
+1. **Inhibition of Gi protein**: Pertussis toxin binds to the Gi protein and inactivates it, preventing the activation of adenylyl cyclase.
+
+2. **Reduction of cAMP levels**: 
+   - Gi proteins are responsible for the activation of adenylyl cyclase, which converts ATP to cAMP.
+   - When Gi is inhibited, adenylyl cyclase is not activated, leading to a decrease in cAMP production.
+   - This results in a **decrease in intracellular cAMP levels**.
+
+3. **Effects on cellular signaling**:
+   - Lower cAMP levels can lead to the inactivation of protein kinase A (PKA), which is a key enzyme in many cellular processes, including gene expression, metabolism, and cell proliferation.
+   - This can disrupt signaling pathways that are normally activated by cAMP, such as those involving the transcription factor CREB (cAMP response element-binding protein).
+
+4. **Implications for disease**:
+   - In the context of *Bordetella pertussis*, pertussis toxin is used to inhibit the Gi protein, which is important for the pathogenesis of whooping cough. The inhibition of Gi leads to a decrease in cAMP, which can affect the host's immune response and respiratory function.
+
+### Summary:
+- **Pertussis toxin** inhibits Gi protein, leading to **reduced cAMP levels**.
+- This reduction in cAMP affects downstream signaling pathways and can have significant effects on cellular function and host physiology.",405,False,0.07936507936507937,-39.75,2.09375,8.115290514356445,19,0.7430155277252197
+Qwen/Qwen3-1.7B,19,"When CH2O is negative, urine is hyper-osmotic relative to plasma.","The compound **CH₂O** is a general formula for a **carbohydrate** (e.g., glucose, fructose, sucrose, etc.). The **osmolarity of urine** relative to **plasma** depends on the **solvent (water) and solute (solute particles)** in the urine.
+
+### Key Points:
+
+1. **Osmolarity of Plasma**:  
+   Plasma osmolarity is typically around **300 mOsm/L** (milliosmoles per liter), primarily due to the presence of **solute particles** such as:
+   - Sodium (Na⁺)
+   - Chloride (Cl⁻)
+   - Bicarbonate (HCO₃⁻)
+   - Protein (e.g., albumin)
+   - Other small molecules like glucose, urea, and electrolytes.
+
+2. **Osmolarity of Urine**:  
+   Urine osmolarity is **lower** than plasma osmolarity in **most cases**, especially when the kidneys are functioning normally. This is because:
+   - **Water is reabsorbed** in the proximal convoluted tubule (PCT) and distal convoluted tubule (DCT), reducing the amount of solute in the urine.
+   - **Urea and other waste products** are excreted in the urine, but they are **not as concentrated** as the solutes in plasma.
+
+3. **Effect of CH₂O (Carbohydrates) on Osmolarity**:
+   - **Carbohydrates** (e.g., glucose, fructose) are **small molecules** and are **reabsorbed** in the PCT.
+   - **Urine osmolarity** is **not directly affected** by the presence of **carbohydrates** in the plasma, because:
+     - Carbohydrates are **reabsorbed** in the PCT, so they do not contribute to the osmolarity of the urine.
+     - The **osmolarity of urine** is primarily determined by the **solutes** that are **not reabsorbed**, such as **urea, creatinine, and electrolytes**.
+
+### Conclusion:
+- **CH₂O (carbohydrates)** do **not** affect the **osmolarity of urine** relative to plasma.
+- The **osmolarity of urine** is **lower** than that of plasma, primarily due to **water reabsorption** and the **reabsorption","The compound **CH₂O** is a general formula for a **carbohydrate** (e.g., glucose, fructose, sucrose, etc.). The **osmolarity of urine** relative to **plasma** depends on the **solvent (water) and solute (solute particles)** in the urine.
+
+### Key Points:
+
+1. **Osmolarity of Plasma**:  
+   Plasma osmolarity is typically around **300 mOsm/L** (milliosmoles per liter), primarily due to the presence of **solute particles** such as:
+   - Sodium (Na⁺)
+   - Chloride (Cl⁻)
+   - Bicarbonate (HCO₃⁻)
+   - Protein (e.g., albumin)
+   - Other small molecules like glucose, urea, and electrolytes.
+
+2. **Osmolarity of Urine**:  
+   Urine osmolarity is **lower** than plasma osmolarity in **most cases**, especially when the kidneys are functioning normally. This is because:
+   - **Water is reabsorbed** in the proximal convoluted tubule (PCT) and distal convoluted tubule (DCT), reducing the amount of solute in the urine.
+   - **Urea and other waste products** are excreted in the urine, but they are **not as concentrated** as the solutes in plasma.
+
+3. **Effect of CH₂O (Carbohydrates) on Osmolarity**:
+   - **Carbohydrates** (e.g., glucose, fructose) are **small molecules** and are **reabsorbed** in the PCT.
+   - **Urine osmolarity** is **not directly affected** by the presence of **carbohydrates** in the plasma, because:
+     - Carbohydrates are **reabsorbed** in the PCT, so they do not contribute to the osmolarity of the urine.
+     - The **osmolarity of urine** is primarily determined by the **solutes** that are **not reabsorbed**, such as **urea, creatinine, and electrolytes**.
+
+### Conclusion:
+- **CH₂O (carbohydrates)** do **not** affect the **osmolarity of urine** relative to plasma.
+- The **osmolarity of urine** is **lower** than that of plasma, primarily due to **water reabsorption** and the **reabsorption",512,False,0.0588235294117647,-78.5,4.625,102.00277308269969,17,0.6999802589416504
+Qwen/Qwen3-1.7B,20,"In β-thalassemia major, α4 tetramers precipitate and damage RBCs.","In β-thalassemia major, the role of α4 tetramers is primarily related to the **abnormal assembly of hemoglobin** and the **degradation of hemoglobin in the liver**.
+
+### Key points about α4 tetramers in β-thalassemia major:
+
+1. **α4 tetramers are formed by the assembly of four α-globin chains** (each α-globin chain is composed of two subunits: α1 and α2). These tetramers are the **primary form of α-globin chain assembly** in normal hemoglobin.
+
+2. **In β-thalassemia major**, there is a **significant reduction or absence of β-globin synthesis**, leading to **excessive α-globin chain accumulation** in the red blood cells (RBCs).
+
+3. **The α-globin chains are not properly assembled into hemoglobin** due to the lack of β-globin. This results in **the formation of α4 tetramers** (which are composed of four α-globin chains) in the RBCs.
+
+4. **These α4 tetramers are not functional as hemoglobin** because they lack the β-globin subunits. Instead, they are **accumulated in the cytoplasm of RBCs** and are **degraded in the liver**.
+
+5. **The accumulation of α4 tetramers in the liver** is a key feature of β-thalassemia major and is associated with **hepatomegaly (enlarged liver)** and **hepatosplenomegaly (enlarged liver and spleen)**.
+
+6. **The degradation of α4 tetramers in the liver** is a **mechanism of iron removal** from the RBCs, which is important for **iron homeostasis** in the body.
+
+### Summary:
+- **α4 tetramers** are formed by the assembly of four α-globin chains in β-thalassemia major.
+- They are **not functional as hemoglobin** and are **accumulated in the RBCs and liver**.
+- Their **degradation in the liver** is a key process in the **pathophysiology** of β-thalassemia major.
+
+In short, α4 tetramers are **abnormal α-globin chain assemblies** that are **accumulated in the RBCs and liver** in β-th","In β-thalassemia major, the role of α4 tetramers is primarily related to the **abnormal assembly of hemoglobin** and the **degradation of hemoglobin in the liver**.
+
+### Key points about α4 tetramers in β-thalassemia major:
+
+1. **α4 tetramers are formed by the assembly of four α-globin chains** (each α-globin chain is composed of two subunits: α1 and α2). These tetramers are the **primary form of α-globin chain assembly** in normal hemoglobin.
+
+2. **In β-thalassemia major**, there is a **significant reduction or absence of β-globin synthesis**, leading to **excessive α-globin chain accumulation** in the red blood cells (RBCs).
+
+3. **The α-globin chains are not properly assembled into hemoglobin** due to the lack of β-globin. This results in **the formation of α4 tetramers** (which are composed of four α-globin chains) in the RBCs.
+
+4. **These α4 tetramers are not functional as hemoglobin** because they lack the β-globin subunits. Instead, they are **accumulated in the cytoplasm of RBCs** and are **degraded in the liver**.
+
+5. **The accumulation of α4 tetramers in the liver** is a key feature of β-thalassemia major and is associated with **hepatomegaly (enlarged liver)** and **hepatosplenomegaly (enlarged liver and spleen)**.
+
+6. **The degradation of α4 tetramers in the liver** is a **mechanism of iron removal** from the RBCs, which is important for **iron homeostasis** in the body.
+
+### Summary:
+- **α4 tetramers** are formed by the assembly of four α-globin chains in β-thalassemia major.
+- They are **not functional as hemoglobin** and are **accumulated in the RBCs and liver**.
+- Their **degradation in the liver** is a key process in the **pathophysiology** of β-thalassemia major.
+
+In short, α4 tetramers are **abnormal α-globin chain assemblies** that are **accumulated in the RBCs and liver** in β-th",512,False,0.05776173285198556,-64.5,2.921875,18.576084986220376,22,0.8021638989448547
+Qwen/Qwen3-1.7B,21,Cyanide may inhibit the ETC by binding Fe3+ and preventing transfer of electrons to O2 in complex IV.,"Cyanide inhibits the electron transport chain (ETC) by **inhibiting the transfer of electrons from NADH to FADH₂**, which is a critical step in the ETC. Specifically, cyanide binds to **cytochrome c** and **cytochrome c reductase** (also known as complex III), which are components of the ETC. This binding prevents the transfer of electrons to the next complex (complex IV), which is responsible for transferring electrons to oxygen (the final electron acceptor).
+
+Here's a more detailed breakdown:
+
+1. **Cytochrome c and Cytochrome c Reductase (Complex III):**
+   - Cyanide binds to the **cytochrome c** molecule, which is a key component of the ETC.
+   - It also binds to the **cytochrome c reductase** (complex III), which is responsible for reducing cytochrome c.
+   - This binding prevents the transfer of electrons from NADH to cytochrome c, which is a critical step in the ETC.
+
+2. **Effect on the ETC:**
+   - The inhibition of cytochrome c reductase stops the flow of electrons through complex III.
+   - This leads to a **blockage of the electron transport chain**, preventing the transfer of electrons to oxygen.
+   - As a result, the **proton gradient across the inner mitochondrial membrane is destroyed**, and **ATP synthesis is halted**.
+
+3. **Consequences:**
+   - Without ATP production, cells experience **energy deprivation**.
+   - In the case of **mitochondrial dysfunction**, this can lead to **cell death** (e.g., in cells with high energy demands, such as muscle cells or neurons).
+
+In summary, **cyanide inhibits the electron transport chain by blocking the transfer of electrons from NADH to cytochrome c**, which is a key step in the ETC. This prevents the production of ATP and leads to cellular dysfunction or death.","Cyanide inhibits the electron transport chain (ETC) by **inhibiting the transfer of electrons from NADH to FADH₂**, which is a critical step in the ETC. Specifically, cyanide binds to **cytochrome c** and **cytochrome c reductase** (also known as complex III), which are components of the ETC. This binding prevents the transfer of electrons to the next complex (complex IV), which is responsible for transferring electrons to oxygen (the final electron acceptor).
+
+Here's a more detailed breakdown:
+
+1. **Cytochrome c and Cytochrome c Reductase (Complex III):**
+   - Cyanide binds to the **cytochrome c** molecule, which is a key component of the ETC.
+   - It also binds to the **cytochrome c reductase** (complex III), which is responsible for reducing cytochrome c.
+   - This binding prevents the transfer of electrons from NADH to cytochrome c, which is a critical step in the ETC.
+
+2. **Effect on the ETC:**
+   - The inhibition of cytochrome c reductase stops the flow of electrons through complex III.
+   - This leads to a **blockage of the electron transport chain**, preventing the transfer of electrons to oxygen.
+   - As a result, the **proton gradient across the inner mitochondrial membrane is destroyed**, and **ATP synthesis is halted**.
+
+3. **Consequences:**
+   - Without ATP production, cells experience **energy deprivation**.
+   - In the case of **mitochondrial dysfunction**, this can lead to **cell death** (e.g., in cells with high energy demands, such as muscle cells or neurons).
+
+In summary, **cyanide inhibits the electron transport chain by blocking the transfer of electrons from NADH to cytochrome c**, which is a key step in the ETC. This prevents the production of ATP and leads to cellular dysfunction or death.",413,False,0.10276679841897232,-131.0,5.25,190.56626845863,25,0.7406437397003174
+Qwen/Qwen3-1.7B,22,Patients are typically screened for GBS infection at 35-37 weeks of pregnancy.,"Patients are typically screened for Group B Streptococcus (GBS) infection during the **third trimester of pregnancy**. This is the standard time frame for screening, as GBS can be transmitted to newborns during delivery and can cause serious complications, including sepsis, pneumonia, and meningitis.
+
+The screening is usually performed via a **urine culture** or **blood culture**, and the results are used to determine whether a pregnant woman requires **intravenous antibiotics** during labor to reduce the risk of transmission to the baby.","Patients are typically screened for Group B Streptococcus (GBS) infection during the **third trimester of pregnancy**. This is the standard time frame for screening, as GBS can be transmitted to newborns during delivery and can cause serious complications, including sepsis, pneumonia, and meningitis.
+
+The screening is usually performed via a **urine culture** or **blood culture**, and the results are used to determine whether a pregnant woman requires **intravenous antibiotics** during labor to reduce the risk of transmission to the baby.",110,False,0.21176470588235294,-43.75,2.296875,9.943061786014486,19,0.7404733896255493
+Qwen/Qwen3-1.7B,23,"DCIS stands for ductal carcinoma in situ, which is a non-invasive type of breast cancer that starts in the milk ducts. It is considered a precursor for invasive ductal carcinoma, which is a more advanced and potentially dangerous form of breast cancer that has spread beyond the milk ducts. If left untreated, DCIS can progress to invasive ductal carcinoma over time. LCIS stands for lobular carcinoma in situ, which is another type of non-invasive breast cancer that starts in the milk-producing glands. While LCIS itself is not considered a precursor for invasive carcinoma, it is a risk factor for developing invasive carcinoma in either breast. This is because women with LCIS have an increased risk of developing breast cancer in general, and this risk is not limited to the breast where LCIS was initially detected.","**DCIS (Ductal Carcinoma In Situ)** is a type of non-invasive breast cancer that occurs in the milk ducts. It is considered **in situ**, meaning the cancer cells are confined to the duct and have not spread to surrounding tissues. DCIS is a **pre-invasive** form of breast cancer and is not yet considered invasive. It is often detected through mammography and biopsy.
+
+---
+
+**Invasive Ductal Carcinoma (IDC)** is a more advanced form of breast cancer where the cancer cells have invaded the surrounding breast tissue. IDC is the most common type of invasive breast cancer and is often more aggressive than DCIS.
+
+**Relationship Between DCIS and IDC:**
+- DCIS is a **precursor** to invasive ductal carcinoma. 
+- If DCIS is not treated or if it progresses, it can develop into invasive ductal carcinoma.
+- The risk of developing invasive ductal carcinoma increases with the size, number, and grade of DCIS.
+- Women with a history of DCIS have a **higher risk** of developing invasive breast cancer, especially if they have other risk factors (e.g., family history, genetic mutations, or certain lifestyle factors).
+
+---
+
+**LCIS (Lobular Carcinoma In Situ)** is a type of non-invasive breast cancer that occurs in the lobules (the small milk-producing glands). It is also considered **in situ** and is not invasive.
+
+**Significance of LCIS in Terms of Risk for Invasive Carcinoma:**
+- LCIS is **not** a form of invasive cancer, but it is **a significant risk factor** for developing invasive breast cancer.
+- Women with LCIS have a **higher risk** of developing invasive breast cancer compared to women without LCIS.
+- The risk increases with the number of LCIS lesions.
+- LCIS is often found in women who are **postmenopausal** and may be associated with **genetic predispositions** (e.g., BRCA mutations).
+- LCIS is **not** considered a ""cancer"" in the traditional sense, but it is a **high-risk finding** that may require monitoring or intervention.
+
+---
+
+### Summary:
+- **DCIS** is a **pre-invasive** form of breast cancer that can progress to **invasive ductal carcinoma**.
+- **LCIS** is a **non-invasive** form of breast cancer that increases the **risk of invasive breast cancer**.
+
+Both DCIS and LCIS","**DCIS (Ductal Carcinoma In Situ)** is a type of non-invasive breast cancer that occurs in the milk ducts. It is considered **in situ**, meaning the cancer cells are confined to the duct and have not spread to surrounding tissues. DCIS is a **pre-invasive** form of breast cancer and is not yet considered invasive. It is often detected through mammography and biopsy.
+
+---
+
+**Invasive Ductal Carcinoma (IDC)** is a more advanced form of breast cancer where the cancer cells have invaded the surrounding breast tissue. IDC is the most common type of invasive breast cancer and is often more aggressive than DCIS.
+
+**Relationship Between DCIS and IDC:**
+- DCIS is a **precursor** to invasive ductal carcinoma. 
+- If DCIS is not treated or if it progresses, it can develop into invasive ductal carcinoma.
+- The risk of developing invasive ductal carcinoma increases with the size, number, and grade of DCIS.
+- Women with a history of DCIS have a **higher risk** of developing invasive breast cancer, especially if they have other risk factors (e.g., family history, genetic mutations, or certain lifestyle factors).
+
+---
+
+**LCIS (Lobular Carcinoma In Situ)** is a type of non-invasive breast cancer that occurs in the lobules (the small milk-producing glands). It is also considered **in situ** and is not invasive.
+
+**Significance of LCIS in Terms of Risk for Invasive Carcinoma:**
+- LCIS is **not** a form of invasive cancer, but it is **a significant risk factor** for developing invasive breast cancer.
+- Women with LCIS have a **higher risk** of developing invasive breast cancer compared to women without LCIS.
+- The risk increases with the number of LCIS lesions.
+- LCIS is often found in women who are **postmenopausal** and may be associated with **genetic predispositions** (e.g., BRCA mutations).
+- LCIS is **not** considered a ""cancer"" in the traditional sense, but it is a **high-risk finding** that may require monitoring or intervention.
+
+---
+
+### Summary:
+- **DCIS** is a **pre-invasive** form of breast cancer that can progress to **invasive ductal carcinoma**.
+- **LCIS** is a **non-invasive** form of breast cancer that increases the **risk of invasive breast cancer**.
+
+Both DCIS and LCIS",512,False,0.423162583518931,-308.0,1.875,6.5208191203301125,164,0.8514187335968018
+Qwen/Qwen3-1.7B,24,"The standard treatment options for seborrheic dermatitis in infants are emollients and non-medicated shampoos.
+
+Seborrheic dermatitis is a common skin condition that can affect infants, causing red, scaly patches on the scalp, face, and other areas of the body. The standard treatment options for seborrheic dermatitis in infants are emollients and non-medicated shampoos. Emollients, such as petroleum jelly or mineral oil, can help to soothe and moisturize the affected skin, reducing itching and irritation. Non-medicated shampoos can be used to gently cleanse the scalp and remove any scales or crusts that may have formed. In some cases, a mild topical steroid cream may be prescribed to reduce inflammation and itching. It is important for parents to follow their healthcare provider's instructions for treatment and to avoid using harsh soaps or other products that may further irritate the skin. With proper care, most cases of seborrheic dermatitis in infants can be effectively managed and do not cause lasting harm.","Seborrheic dermatitis in infants is a common skin condition that typically presents as red, scaly patches on the scalp, face, and sometimes the skin around the nose and ears. It is not contagious and is not caused by a bacterial or viral infection. The standard treatment options for seborrheic dermatitis in infants include:
+
+### 1. **Topical Antifungal Treatments**
+   - **Mild Scabies or Seborrheic Dermatitis**: For mild cases, **topical antifungal agents** such as **clotrimazole** or **miconazole** are often used. These are applied once or twice daily to the affected areas.
+   - **Ketoconazole**: A common antifungal agent used in shampoos and topical creams.
+
+### 2. **Topical Corticosteroids**
+   - **Mild to Moderate Cases**: For more severe or persistent cases, **topical corticosteroids** such as **hydrocortisone** or **prednisolone** may be prescribed. These are applied once or twice daily to reduce inflammation and itching.
+   - **Avoid prolonged use**: Corticosteroids should be used cautiously and for the shortest duration possible to avoid side effects.
+
+### 3. **Shampoos**
+   - **Antifungal shampoos**: Such as **Nizoral** (which contains ketoconazole) or **Selenium Sulfide Shampoo** can be used for scalp involvement.
+   - **Coal Tar Shampoos**: These are sometimes used for more severe cases, though they may cause irritation.
+
+### 4. **Lifestyle and Home Care**
+   - **Gentle Skin Care**: Avoid harsh soaps and scrubbing the skin.
+   - **Washing with Warm Water**: Use a mild, fragrance-free cleanser.
+   - **Moisturizing**: Apply a moisturizer to keep the skin hydrated and reduce scaling.
+
+### 5. **When to See a Healthcare Provider**
+   - If the condition persists for more than 4–6 weeks.
+   - If the infant develops a fever or other signs of infection.
+   - If the rash spreads or becomes more severe.
+
+### 6. **Avoiding Triggers**
+   - Avoid using harsh skincare products or excessive bathing.
+   - Keep the infant’s environment clean and dry.
+
+### Important Notes:
+- Seborrheic dermatitis in infants is usually self-limiting and resolves on its own within a","Seborrheic dermatitis in infants is a common skin condition that typically presents as red, scaly patches on the scalp, face, and sometimes the skin around the nose and ears. It is not contagious and is not caused by a bacterial or viral infection. The standard treatment options for seborrheic dermatitis in infants include:
+
+### 1. **Topical Antifungal Treatments**
+   - **Mild Scabies or Seborrheic Dermatitis**: For mild cases, **topical antifungal agents** such as **clotrimazole** or **miconazole** are often used. These are applied once or twice daily to the affected areas.
+   - **Ketoconazole**: A common antifungal agent used in shampoos and topical creams.
+
+### 2. **Topical Corticosteroids**
+   - **Mild to Moderate Cases**: For more severe or persistent cases, **topical corticosteroids** such as **hydrocortisone** or **prednisolone** may be prescribed. These are applied once or twice daily to reduce inflammation and itching.
+   - **Avoid prolonged use**: Corticosteroids should be used cautiously and for the shortest duration possible to avoid side effects.
+
+### 3. **Shampoos**
+   - **Antifungal shampoos**: Such as **Nizoral** (which contains ketoconazole) or **Selenium Sulfide Shampoo** can be used for scalp involvement.
+   - **Coal Tar Shampoos**: These are sometimes used for more severe cases, though they may cause irritation.
+
+### 4. **Lifestyle and Home Care**
+   - **Gentle Skin Care**: Avoid harsh soaps and scrubbing the skin.
+   - **Washing with Warm Water**: Use a mild, fragrance-free cleanser.
+   - **Moisturizing**: Apply a moisturizer to keep the skin hydrated and reduce scaling.
+
+### 5. **When to See a Healthcare Provider**
+   - If the condition persists for more than 4–6 weeks.
+   - If the infant develops a fever or other signs of infection.
+   - If the rash spreads or becomes more severe.
+
+### 6. **Avoiding Triggers**
+   - Avoid using harsh skincare products or excessive bathing.
+   - Keep the infant’s environment clean and dry.
+
+### Important Notes:
+- Seborrheic dermatitis in infants is usually self-limiting and resolves on its own within a",512,False,0.4428904428904428,-358.0,1.6328125,5.11824957134376,220,0.8263895511627197
+Qwen/Qwen3-1.7B,25,"Benign tumors usually display a low nuclear:cytoplasmic ratio, meaning that the size of the nucleus in relation to the size of the cell is relatively small. This is in contrast to malignant tumors, which often have a high nuclear:cytoplasmic ratio and can have abnormally large nuclei in relation to the size of the cell. The low nuclear:cytoplasmic ratio in benign tumors is one of the factors that distinguishes them from malignant tumors, although other features such as the level of mitotic activity, size, shape, and appearance of the cells may also be used to differentiate between the two. While benign tumors are not generally considered to be life-threatening, they can still cause significant health problems depending on their location and size, and may require surgical removal or other interventions. Malignant tumors, on the other hand, can be much more aggressive and may require more aggressive treatments such as chemotherapy, radiation therapy, or surgery.","The nuclear:cytoplasmic ratio (N:C ratio) in tumor cells can vary depending on the type of tumor, but generally, **benign tumors** tend to have a **higher nuclear:cytoplasmic ratio** compared to **malignant tumors**.
+
+### Key Points:
+- **Benign tumors**:
+  - Typically have a **higher nuclear:cytoplasmic ratio**.
+  - This is because benign tumors often have **more nuclear atypia** (abnormal nuclear features) and **less cytoplasm** compared to malignant tumors.
+  - The nuclei are often **larger and more irregular** in shape and size, and the cytoplasm is **less abundant**.
+
+- **Malignant tumors**:
+  - Usually have a **lower nuclear:cytoplasmic ratio**.
+  - This is due to **increased cell proliferation** and **increased cytoplasm** (especially in rapidly dividing cells).
+  - The nuclei are often **smaller, more uniform**, and less atypical.
+
+### Summary:
+- **Benign tumors** → **Higher N:C ratio**
+- **Malignant tumors** → **Lower N:C ratio**
+
+This distinction is important in the differential diagnosis of tumors and can help guide treatment decisions.","The nuclear:cytoplasmic ratio (N:C ratio) in tumor cells can vary depending on the type of tumor, but generally, **benign tumors** tend to have a **higher nuclear:cytoplasmic ratio** compared to **malignant tumors**.
+
+### Key Points:
+- **Benign tumors**:
+  - Typically have a **higher nuclear:cytoplasmic ratio**.
+  - This is because benign tumors often have **more nuclear atypia** (abnormal nuclear features) and **less cytoplasm** compared to malignant tumors.
+  - The nuclei are often **larger and more irregular** in shape and size, and the cytoplasm is **less abundant**.
+
+- **Malignant tumors**:
+  - Usually have a **lower nuclear:cytoplasmic ratio**.
+  - This is due to **increased cell proliferation** and **increased cytoplasm** (especially in rapidly dividing cells).
+  - The nuclei are often **smaller, more uniform**, and less atypical.
+
+### Summary:
+- **Benign tumors** → **Higher N:C ratio**
+- **Malignant tumors** → **Lower N:C ratio**
+
+This distinction is important in the differential diagnosis of tumors and can help guide treatment decisions.",263,False,0.41428571428571426,-376.0,1.953125,7.050686584819912,192,0.854723334312439
+Qwen/Qwen3-1.7B,26,"The most common cause of C-MOPS is Streptococcus pneumoniae. The symptoms associated with C-MOPS include redness and discharge in the eyes, fever, chills, headache, neck stiffness, ear pain, cough, nasal discharge, and sinus tenderness.","C-MOPS is a term used in medical literature to describe **Cerebral Malaria with Oliguria, Pneumonia, and Stroke**. It is a severe form of malaria that occurs in children, particularly in regions with high malaria transmission, and is associated with significant morbidity and mortality.
+
+### Most Common Cause of C-MOPS:
+The **most common cause** of C-MOPS is **falciparum malaria**, a severe form of malaria caused by the *Plasmodium falciparum* parasite. This parasite is the most pathogenic species of the *Plasmodium* genus and is responsible for the majority of severe malaria cases worldwide.
+
+---
+
+### Associated Symptoms:
+The symptoms of C-MOPS are typically **severe and life-threatening**, and include:
+
+1. **Oliguria** (reduced urine output) – due to acute kidney injury.
+2. **Pneumonia** – often due to secondary bacterial infection or due to the body's inflammatory response.
+3. **Stroke** – can occur due to cerebral edema or vasculopathy (abnormal blood vessel function).
+4. **Seizures** – due to cerebral edema or other neurological complications.
+5. **Hypovolemic shock** – from severe dehydration and fluid loss.
+6. **Acute respiratory distress** – due to pneumonia or secondary complications.
+7. **Altered mental status** – confusion, lethargy, or coma.
+8. **Fever** – persistent or high-grade fever.
+
+---
+
+### Important Notes:
+- C-MOPS is a **clinical syndrome**, not a single disease, and can occur in the context of various underlying conditions, including **severe malaria**, **sepsis**, or **acute respiratory distress syndrome (ARDS)**.
+- Early recognition and treatment are critical to improving outcomes, and often involve **intravenous antimalarials**, **fluid resuscitation**, and **supportive care**.
+
+If you are referring to a specific condition or a different context (e.g., a different acronym or a specific clinical scenario), please clarify, and I can provide more tailored information.","C-MOPS is a term used in medical literature to describe **Cerebral Malaria with Oliguria, Pneumonia, and Stroke**. It is a severe form of malaria that occurs in children, particularly in regions with high malaria transmission, and is associated with significant morbidity and mortality.
+
+### Most Common Cause of C-MOPS:
+The **most common cause** of C-MOPS is **falciparum malaria**, a severe form of malaria caused by the *Plasmodium falciparum* parasite. This parasite is the most pathogenic species of the *Plasmodium* genus and is responsible for the majority of severe malaria cases worldwide.
+
+---
+
+### Associated Symptoms:
+The symptoms of C-MOPS are typically **severe and life-threatening**, and include:
+
+1. **Oliguria** (reduced urine output) – due to acute kidney injury.
+2. **Pneumonia** – often due to secondary bacterial infection or due to the body's inflammatory response.
+3. **Stroke** – can occur due to cerebral edema or vasculopathy (abnormal blood vessel function).
+4. **Seizures** – due to cerebral edema or other neurological complications.
+5. **Hypovolemic shock** – from severe dehydration and fluid loss.
+6. **Acute respiratory distress** – due to pneumonia or secondary complications.
+7. **Altered mental status** – confusion, lethargy, or coma.
+8. **Fever** – persistent or high-grade fever.
+
+---
+
+### Important Notes:
+- C-MOPS is a **clinical syndrome**, not a single disease, and can occur in the context of various underlying conditions, including **severe malaria**, **sepsis**, or **acute respiratory distress syndrome (ARDS)**.
+- Early recognition and treatment are critical to improving outcomes, and often involve **intravenous antimalarials**, **fluid resuscitation**, and **supportive care**.
+
+If you are referring to a specific condition or a different context (e.g., a different acronym or a specific clinical scenario), please clarify, and I can provide more tailored information.",438,False,0.11724137931034484,-206.0,3.75,42.52108200006278,55,0.6523611545562744
+Qwen/Qwen3-1.7B,27,"The Babinski reflex typically disappears in infants by the age of 12 months. The Babinski reflex is an automatic response that infants have when the sole of their foot is stroked, causing their toes to fan out and their big toe to extend upward. This reflex is a normal part of an infant's development, but as they grow and develop, they begin to lose this reflex and develop more mature motor skills. While the Babinski reflex usually disappears by 12 months, it can vary from infant to infant and may persist for longer in some cases. If you have concerns about your infant's development or reflexes, it is always best to consult with a healthcare provider.","The Babinski reflex typically disappears around **12 to 14 months of age** in infants. This reflex is a normal physiological response in infants and is considered a sign of normal development. However, if the reflex is present at 12 months or older, it may indicate a neurological issue, and a healthcare provider should be consulted.","The Babinski reflex typically disappears around **12 to 14 months of age** in infants. This reflex is a normal physiological response in infants and is considered a sign of normal development. However, if the reflex is present at 12 months or older, it may indicate a neurological issue, and a healthcare provider should be consulted.",70,False,0.4177215189873418,-308.0,2.25,9.487735836358526,137,0.9326745271682739
+Qwen/Qwen3-1.7B,28,Patients with granulosa cell tumors can develop an endometrial carcinoma.,"Granulosa cell tumors (GCTs) are a type of germ cell tumor that typically arise in the ovary. They are generally benign, but they can sometimes be malignant, especially in certain subtypes or in patients with specific genetic or clinical features.
+
+### Types of Carcinoma That Can Develop in Patients with Granulosa Cell Tumors:
+
+1. **Gestational Trophoblastic Tumor (GTT) Carcinoma**:
+   - This is a rare type of malignant tumor that can arise from the trophoblast cells, which are similar to granulosa cells in some cases.
+   - It is often associated with **choriocarcinoma**, a highly aggressive form of GTT.
+
+2. **Epithelial Carcinoma**:
+   - In some cases, granulosa cell tumors can metastasize or transform into **epithelial carcinomas**, which are malignant tumors arising from epithelial cells.
+
+3. **Other Malignant Subtypes**:
+   - In rare cases, granulosa cell tumors can develop into **malignant granulosa cell tumors** (e.g., **granulosa cell tumor with malignant transformation**), which are more aggressive and have a higher risk of metastasis.
+
+### Important Notes:
+- **Granulosa cell tumors are typically benign**, but they can become **malignant** in some cases.
+- **Carcinoma** in this context refers to **malignant transformation** of the tumor, not a primary carcinoma arising from a different tissue.
+- The **risk of malignancy** varies depending on the tumor's origin, size, and location.
+
+### Summary:
+While granulosa cell tumors are generally benign, they can transform into **malignant carcinomas**, including **gestational trophoblastic tumor carcinoma** and **epithelial carcinoma**, in certain cases. These are rare but serious complications that require careful monitoring and treatment.","Granulosa cell tumors (GCTs) are a type of germ cell tumor that typically arise in the ovary. They are generally benign, but they can sometimes be malignant, especially in certain subtypes or in patients with specific genetic or clinical features.
+
+### Types of Carcinoma That Can Develop in Patients with Granulosa Cell Tumors:
+
+1. **Gestational Trophoblastic Tumor (GTT) Carcinoma**:
+   - This is a rare type of malignant tumor that can arise from the trophoblast cells, which are similar to granulosa cells in some cases.
+   - It is often associated with **choriocarcinoma**, a highly aggressive form of GTT.
+
+2. **Epithelial Carcinoma**:
+   - In some cases, granulosa cell tumors can metastasize or transform into **epithelial carcinomas**, which are malignant tumors arising from epithelial cells.
+
+3. **Other Malignant Subtypes**:
+   - In rare cases, granulosa cell tumors can develop into **malignant granulosa cell tumors** (e.g., **granulosa cell tumor with malignant transformation**), which are more aggressive and have a higher risk of metastasis.
+
+### Important Notes:
+- **Granulosa cell tumors are typically benign**, but they can become **malignant** in some cases.
+- **Carcinoma** in this context refers to **malignant transformation** of the tumor, not a primary carcinoma arising from a different tissue.
+- The **risk of malignancy** varies depending on the tumor's origin, size, and location.
+
+### Summary:
+While granulosa cell tumors are generally benign, they can transform into **malignant carcinomas**, including **gestational trophoblastic tumor carcinoma** and **epithelial carcinoma**, in certain cases. These are rare but serious complications that require careful monitoring and treatment.",399,False,0.06694560669456066,-28.75,1.921875,6.833759763883972,15,0.6961506605148315
+Qwen/Qwen3-1.7B,29,"NF1 presents with neurofibromas, which are composed of schwann cells that form a swirl of myelin around axons. The neurofibromas are typically benign and can present in childhood or adulthood.","Neurofibromatosis type 1 (NF1) is a genetic disorder characterized by the development of neurofibromas, which are benign tumors arising from nerve tissue. The characteristic presentation of NF1 includes the following:
+
+### **Characteristic Presentation of NF1:**
+1. **Neurofibromas:** These are the most common and defining feature of NF1. They appear as benign, skin-based tumors that can be found on the skin, scalp, or other parts of the body.
+2. **Freckling:** Café-au-lait spots (light brown, irregularly shaped patches on the skin) are common and typically appear before age 10.
+3. **Lisch nodules:** These are small, benign nodules that appear on the conjunctiva of the eye, often in individuals with NF1.
+4. **Fibromas:** These are benign tumors that can occur in the skin, bones, or other tissues.
+5. **Bone lesions:** These include enchondromatous or fibrous dysplasia-like lesions, which are benign but can cause bone deformities.
+6. **Histiocytosis:** In some cases, there may be a rare, non-specific inflammatory condition called ""neurofibromatosis type 1 histiocytosis,"" which involves the skin and subcutaneous tissue.
+
+---
+
+### **Composition of Neurofibromas in NF1:**
+Neurofibromas in NF1 are composed of:
+- **Neuroepithelial cells** (which are derived from the neural tube).
+- **Fibroblasts** (connective tissue cells).
+- **Chondrocytes** (cartilage cells) in some cases.
+- **Lymphatic endothelial cells** in certain subtypes.
+
+These cells are organized in a pattern that resembles the normal neural tissue, but with a higher proliferation rate and increased susceptibility to malignant transformation in some cases.
+
+---
+
+### **Benign or Malignant?**
+- **Neurofibromas in NF1 are generally benign.** They are not malignant, although there is a rare, but significant, risk of **neurofibromatosis type 1-related malignant neurofibromatosis (MN)**, which is a rare, aggressive form of the disease that can lead to metastatic tumors.
+
+---
+
+### **Typical Presentation in Childhood or Adulthood:**
+- **Neurofibromas typically present in childhood.** They are often diagnosed in early childhood, usually before","Neurofibromatosis type 1 (NF1) is a genetic disorder characterized by the development of neurofibromas, which are benign tumors arising from nerve tissue. The characteristic presentation of NF1 includes the following:
+
+### **Characteristic Presentation of NF1:**
+1. **Neurofibromas:** These are the most common and defining feature of NF1. They appear as benign, skin-based tumors that can be found on the skin, scalp, or other parts of the body.
+2. **Freckling:** Café-au-lait spots (light brown, irregularly shaped patches on the skin) are common and typically appear before age 10.
+3. **Lisch nodules:** These are small, benign nodules that appear on the conjunctiva of the eye, often in individuals with NF1.
+4. **Fibromas:** These are benign tumors that can occur in the skin, bones, or other tissues.
+5. **Bone lesions:** These include enchondromatous or fibrous dysplasia-like lesions, which are benign but can cause bone deformities.
+6. **Histiocytosis:** In some cases, there may be a rare, non-specific inflammatory condition called ""neurofibromatosis type 1 histiocytosis,"" which involves the skin and subcutaneous tissue.
+
+---
+
+### **Composition of Neurofibromas in NF1:**
+Neurofibromas in NF1 are composed of:
+- **Neuroepithelial cells** (which are derived from the neural tube).
+- **Fibroblasts** (connective tissue cells).
+- **Chondrocytes** (cartilage cells) in some cases.
+- **Lymphatic endothelial cells** in certain subtypes.
+
+These cells are organized in a pattern that resembles the normal neural tissue, but with a higher proliferation rate and increased susceptibility to malignant transformation in some cases.
+
+---
+
+### **Benign or Malignant?**
+- **Neurofibromas in NF1 are generally benign.** They are not malignant, although there is a rare, but significant, risk of **neurofibromatosis type 1-related malignant neurofibromatosis (MN)**, which is a rare, aggressive form of the disease that can lead to metastatic tumors.
+
+---
+
+### **Typical Presentation in Childhood or Adulthood:**
+- **Neurofibromas typically present in childhood.** They are often diagnosed in early childhood, usually before",512,False,0.14332247557003255,-158.0,3.671875,39.32557222442699,43,0.822319746017456
+Qwen/Qwen3-1.7B,30,"In cloning, the next step after the production of cDNA is to insert cDNA fragments into a vector, which is typically a bacterial plasmid. The purpose of the vector is to provide a vehicle for the cDNA to be introduced into bacterial cells and replicated. Bacterial plasmids are commonly used as vectors because they are small, circular pieces of DNA that can be easily manipulated in the laboratory. They also often contain antibiotic resistance genes, which can be used to select for the bacteria that have taken up the plasmid with the cDNA insert. This allows for the isolation of the bacteria that contain the desired recombinant DNA for further study or use.","In cloning, after the production of **cDNA** (complementary DNA), the next step is the **insertion of the cDNA into a vector**. This process is called **cloning**.
+
+### Next Step: Insertion of cDNA into a Vector
+
+The **vector** is a **plasmid** or **bacterial artificial chromosome (BAC)** that serves as a **carrier** for the cDNA. The vector is used to:
+
+1. **Insert the cDNA** into the vector's **restriction sites**.
+2. **Package the vector and cDNA** into a **bacteriophage** (e.g., lambda phage) or **bacterial cell**.
+3. **Transfect** the vector-cDNA complex into a **host cell** (e.g., bacterial cells) to allow the cDNA to be expressed or used for further experiments.
+
+### Purpose of the Vector
+
+The **purpose of the vector** in this step is:
+
+- To **carry the cDNA** to a **host cell**.
+- To **provide the necessary regulatory elements** (e.g., promoters, terminators) to ensure the cDNA is expressed or functional.
+- To **allow for the replication** of the vector in the host cell.
+- To **facilitate the isolation** of the desired DNA fragment for further analysis or use.
+
+In summary, the vector is essential for **transferring the cDNA into a host cell** and enabling the **expression or use of the inserted DNA**.","In cloning, after the production of **cDNA** (complementary DNA), the next step is the **insertion of the cDNA into a vector**. This process is called **cloning**.
+
+### Next Step: Insertion of cDNA into a Vector
+
+The **vector** is a **plasmid** or **bacterial artificial chromosome (BAC)** that serves as a **carrier** for the cDNA. The vector is used to:
+
+1. **Insert the cDNA** into the vector's **restriction sites**.
+2. **Package the vector and cDNA** into a **bacteriophage** (e.g., lambda phage) or **bacterial cell**.
+3. **Transfect** the vector-cDNA complex into a **host cell** (e.g., bacterial cells) to allow the cDNA to be expressed or used for further experiments.
+
+### Purpose of the Vector
+
+The **purpose of the vector** in this step is:
+
+- To **carry the cDNA** to a **host cell**.
+- To **provide the necessary regulatory elements** (e.g., promoters, terminators) to ensure the cDNA is expressed or functional.
+- To **allow for the replication** of the vector in the host cell.
+- To **facilitate the isolation** of the desired DNA fragment for further analysis or use.
+
+In summary, the vector is essential for **transferring the cDNA into a host cell** and enabling the **expression or use of the inserted DNA**.",313,False,0.39846743295019155,-290.0,2.15625,8.638681785041102,135,0.830481767654419
+Qwen/Qwen3-1.7B,31,Cryptosporidium oocysts can be visualized with an Acid-Fast (Ziehl-Neelsen) stain.,"Cryptosporidium oocysts can be visualized using **silver staining**. This technique is widely used in clinical and research settings to detect and identify Cryptosporidium oocysts in stool samples. The staining process involves using a silver solution, which binds to the oocysts and makes them visible under a microscope.
+
+Other methods, such as **immunofluorescence** or **PCR**, are also used for detection, but silver staining remains the gold standard for visualizing Cryptosporidium oocysts in clinical settings.","Cryptosporidium oocysts can be visualized using **silver staining**. This technique is widely used in clinical and research settings to detect and identify Cryptosporidium oocysts in stool samples. The staining process involves using a silver solution, which binds to the oocysts and makes them visible under a microscope.
+
+Other methods, such as **immunofluorescence** or **PCR**, are also used for detection, but silver staining remains the gold standard for visualizing Cryptosporidium oocysts in clinical settings.",114,False,0.12658227848101267,-65.5,2.4375,11.444393964331121,27,0.8395693302154541
