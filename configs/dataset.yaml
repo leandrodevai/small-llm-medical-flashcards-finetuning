@@ -1,0 +1,17 @@
+dataset_id: leandrodevai/medical-meadow-medical-flashcards-splitted
+# Pin a revision for fully reproducible runs; null uses the latest dataset commit.
+revision: null
+seed: 42
+# Actual row counts in the hosted dataset.
+max_rows:
+  train: 30000
+  validation: 1977
+  test: 1978
+# Optional caps applied after shuffling each split. null means full split.
+sample_sizes:
+  train: null
+  validation: null
+  test: null
+system_prompt: "You are an expert on medical subjects.\n"
+# Used only for answer-similarity metrics, not for training.
+embedding_model_id: sentence-transformers/all-MiniLM-L6-v2
