@@ -1,0 +1,26 @@
+program: scripts/run_train.py
+method: bayes
+# Metric name must match the key logged by TRL/W&B.
+metric:
+  name: eval/loss
+  goal: minimize
+command:
+  - ${env}
+  - python
+  - ${program}
+  - --config
+  - configs/train.yaml
+# Dotted keys are merged into configs/train.yaml by scripts/run_train.py.
+parameters:
+  model.id:
+    value: meta-llama/Llama-3.2-1B-Instruct
+  training.learning_rate:
+    values: [0.0001, 0.0002, 0.0005]
+  training.num_train_epochs:
+    values: [3, 4]
+  training.gradient_accumulation_steps:
+    values: [4, 8]
+  lora.r:
+    values: [8, 16, 32]
+  lora.dropout:
+    values: [0.0, 0.05, 0.1]
