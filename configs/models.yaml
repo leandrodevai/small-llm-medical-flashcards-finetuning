@@ -1,0 +1,18 @@
+# Models evaluated by scripts/run_baseline.py.
+baseline_models:
+  - meta-llama/Llama-3.2-1B-Instruct
+  - HuggingFaceTB/SmolLM2-1.7B-Instruct
+  - Qwen/Qwen2.5-1.5B-Instruct
+  - Qwen/Qwen3-1.7B
+  - google/gemma-3-1b-it
+  - meta-llama/Llama-3.2-3B-Instruct
+  - Qwen/Qwen2.5-3B-Instruct
+  - Qwen/Qwen3-4B-Instruct-2507
+  - HuggingFaceTB/SmolLM3-3B
+  - google/medgemma-1.5-4b-it
+  - google/gemma-3-4b-it
+
+# Named candidates used when choosing sweep configs.
+sweep_candidates:
+  strong: HuggingFaceTB/SmolLM2-1.7B-Instruct
+  compact: meta-llama/Llama-3.2-1B-Instruct
