@@ -1,4 +1,4 @@
-program: scripts/run_train.py
+program: medical-flashcards-train
 method: bayes
 # Metric name must match the key logged by TRL/W&B.
 metric:
@@ -6,11 +6,10 @@ metric:
   goal: minimize
 command:
   - ${env}
-  - python
   - ${program}
   - --config
   - configs/train.yaml
-# Dotted keys are merged into configs/train.yaml by scripts/run_train.py.
+# Dotted keys are merged into configs/train.yaml by medical-flashcards-train.
 parameters:
   model.id:
     value: HuggingFaceTB/SmolLM2-1.7B-Instruct
