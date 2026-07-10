@@ -72,7 +72,7 @@ This is why lexical and embedding metrics are useful for fast iteration but insu
 
 ## Dataset and evaluation
 
-The source is [`flwrlabs/medical-meadow-medical-flashcards`](https://huggingface.co/datasets/flwrlabs/medical-meadow-medical-flashcards). A fixed split is published as [`leandrodevai/medical-meadow-medical-flashcards-splitted`](https://huggingface.co/datasets/leandrodevai/medical-meadow-medical-flashcards-splitted).
+The source is [`flwrlabs/medical-meadow-medical-flashcards`](https://huggingface.co/datasets/flwrlabs/medical-meadow-medical-flashcards). A fixed split is published as [`leandrodevai/medical-meadow-medical-flashcards-splits`](https://huggingface.co/datasets/leandrodevai/medical-meadow-medical-flashcards-splits).
 
 | Split | Rows | Usage |
 | --- | ---: | --- |

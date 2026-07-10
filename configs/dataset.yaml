@@ -1,4 +1,4 @@
-dataset_id: leandrodevai/medical-meadow-medical-flashcards-splitted
+dataset_id: leandrodevai/medical-meadow-medical-flashcards-splits
 # Pin a revision for fully reproducible runs; null uses the latest dataset commit.
 revision: null
 seed: 42
