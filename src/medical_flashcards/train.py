@@ -122,9 +122,9 @@ def build_run_name(config: dict) -> str:
     """Build a stable run name from model and LoRA settings."""
     model_name = config["model"]["id"].replace("/", "_")
     return (
-        f'{config["project"].get("run_prefix", "qlora")}'
-        f'_lr{config["training"]["learning_rate"]}'
-        f'_r{config["lora"]["r"]}_{model_name}'
+        f"{config['project'].get('run_prefix', 'qlora')}"
+        f"_lr{config['training']['learning_rate']}"
+        f"_r{config['lora']['r']}_{model_name}"
     )
 
 

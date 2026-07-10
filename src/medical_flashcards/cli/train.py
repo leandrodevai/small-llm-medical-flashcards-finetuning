@@ -41,7 +41,9 @@ def main(
     args = parse_args(argv)
     config_base_dir = Path(base_dir) if base_dir is not None else Path.cwd()
     config = load_yaml(args.config)
-    config = apply_dotted_overrides(config, dict(parse_override(v) for v in args.override))
+    config = apply_dotted_overrides(
+        config, dict(parse_override(v) for v in args.override)
+    )
     config = resolve_dataset_config(config, base_dir=config_base_dir)
     if args.no_wandb:
         os.environ["WANDB_DISABLED"] = "true"

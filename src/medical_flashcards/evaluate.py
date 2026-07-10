@@ -213,7 +213,9 @@ def reference_answer_logprobs(model, tokenizer, example: dict) -> dict:
     }
 
 
-def score_reference_answers(model, tokenizer, eval_dataset) -> tuple[pd.DataFrame, float]:
+def score_reference_answers(
+    model, tokenizer, eval_dataset
+) -> tuple[pd.DataFrame, float]:
     """Compute reference-answer scores for a full evaluation split."""
     rows = []
     synchronize_cuda()

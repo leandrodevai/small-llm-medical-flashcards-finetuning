@@ -78,11 +78,15 @@ def add_answer_similarity(predictions: pd.DataFrame, embedder) -> pd.DataFrame:
             predictions.loc[valid, "reference_answer"].tolist(),
             normalize_embeddings=True,
         )
-        predictions.loc[valid, "answer_similarity"] = (generated * reference).sum(axis=1)
+        predictions.loc[valid, "answer_similarity"] = (generated * reference).sum(
+            axis=1
+        )
     return predictions
 
 
-def summarize_predictions(predictions: pd.DataFrame, telemetry: dict | None = None) -> dict:
+def summarize_predictions(
+    predictions: pd.DataFrame, telemetry: dict | None = None
+) -> dict:
     """Aggregate prediction-level metrics into one leaderboard row."""
     telemetry = telemetry or {}
     summary = {

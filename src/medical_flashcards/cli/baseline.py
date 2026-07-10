@@ -67,8 +67,8 @@ def main(argv: Sequence[str] | None = None) -> None:
                 args.output_dir, model_id, predictions, metrics
             )
             print(
-                f'  token_f1={metrics["token_f1_mean"]:.3f} '
-                f'answer_similarity={metrics["answer_similarity_mean"]:.3f}'
+                f"  token_f1={metrics['token_f1_mean']:.3f} "
+                f"answer_similarity={metrics['answer_similarity_mean']:.3f}"
             )
         except Exception as exc:
             print(f"  skipped: {exc!r}")
