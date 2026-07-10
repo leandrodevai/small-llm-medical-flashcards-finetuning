@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "small-llm-medical-flashcards-finetuning"
 version = "0.1.0"
@@ -20,6 +24,12 @@ dependencies = [
     "trl[peft]==1.0.0",
     "wandb>=0.27.0",
 ]
+
+[project.scripts]
+medical-flashcards-baseline = "medical_flashcards.cli.baseline:main"
+medical-flashcards-eval = "medical_flashcards.cli.evaluate:main"
+medical-flashcards-sweep = "medical_flashcards.cli.sweep:main"
+medical-flashcards-train = "medical_flashcards.cli.train:main"
 
 [[tool.uv.index]]
 name = "pytorch-cu126"
@@ -44,6 +54,12 @@ dev = [
     "ruff>=0.15.15",
     "scikit-learn>=1.8.0",
 ]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
 
 [tool.pytest.ini_options]
 pythonpath = ["src"]
