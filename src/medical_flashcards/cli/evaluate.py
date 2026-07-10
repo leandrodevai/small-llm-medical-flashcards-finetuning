@@ -5,6 +5,8 @@ from __future__ import annotations
 import argparse
 from collections.abc import Sequence
 
+from dotenv import load_dotenv
+
 from medical_flashcards.config import load_yaml
 from medical_flashcards.data import load_fixed_dataset, prepare_split
 from medical_flashcards.evaluate import (
@@ -31,6 +33,7 @@ def parse_args(argv: Sequence[str] | None = None) -> argparse.Namespace:
 
 def main(argv: Sequence[str] | None = None) -> None:
     """Evaluate requested models and update the leaderboard."""
+    load_dotenv()
     args = parse_args(argv)
     dataset_cfg = load_yaml(args.dataset_config)
     dataset = load_fixed_dataset(

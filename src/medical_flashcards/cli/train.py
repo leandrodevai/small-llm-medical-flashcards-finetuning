@@ -7,6 +7,8 @@ import os
 from collections.abc import Sequence
 from pathlib import Path
 
+from dotenv import load_dotenv
+
 from medical_flashcards.config import (
     apply_dotted_overrides,
     flatten_dict,
@@ -35,6 +37,7 @@ def main(
     argv: Sequence[str] | None = None, *, base_dir: str | Path | None = None
 ) -> None:
     """Run training locally or through a W&B sweep agent."""
+    load_dotenv()
     args = parse_args(argv)
     config_base_dir = Path(base_dir) if base_dir is not None else Path.cwd()
     config = load_yaml(args.config)
